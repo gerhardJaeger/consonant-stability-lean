@@ -1,0 +1,51 @@
+name: consonant_inventories
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.12
+  - jupyterlab
+  - notebook
+  - cmake
+  - quarto
+  - r-base=4.3
+  - r-irkernel
+  - r-biocmanager
+  - r-tidyverse
+  - r-httr
+  - r-ape
+  - r-phytools
+  - r-maps
+  - r-sf
+  - r-spdata
+  - r-viridis
+  - r-stringr
+  - r-posterior
+  - r-geiger
+  - r-mass
+  - r-nloptr
+  - r-castor
+  - r-r.utils
+  - r-svglite
+  - r-patchwork
+  - r-glue
+  - r-rcolorbrewer
+  - r-rnaturalearth
+  - r-rnaturalearthdata
+  - r-pbapply
+  - r-plotrix
+  - bioconductor-ggtree
+  - imagemagick
+  - libcurl=8.4
+  - r-rstan
+  - r-bayesplot
+  - r-bayesplot
+  - r-bh
+  - r-cmdstanr        # available on conda-forge
+  - r-posterior       # useful companion
+  - gxx_linux-64      # C++ compiler
+  - gcc
+  - make
+  - r-ggdist
+  - r-future
+  - r-furrr

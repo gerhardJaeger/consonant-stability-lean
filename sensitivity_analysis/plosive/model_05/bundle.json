@@ -1,0 +1,15 @@
+{
+  "name": "model_05",
+  "mu_prior": "normal(1, 0.5)",
+  "mu_prior_generator": "normal_rng(1, 0.5)",
+  "V_prior": "lognormal(0, 1)",
+  "V_prior_generator": "lognormal_rng(0, 1)",
+  "tau_prior": "exponential(10)",
+  "tau_prior_generator": "exponential_rng(10)",
+  "t_half_prior": "uniform(0.1, 100)",
+  "t_half_prior_generator": "uniform_rng(0.1, 100)",
+  "transformation": "log(y[i] + 0.001)",
+  "y_prior_generator": "exp(normal_rng(z_prior[i], tau_prior))-0.001",
+  "y_rep_generator": "exp(normal_rng(z[i], tau))-0.001",
+  "y_likelihood": "lognormal_lpdf(y[i] + eps | z[i], tau)"
+}

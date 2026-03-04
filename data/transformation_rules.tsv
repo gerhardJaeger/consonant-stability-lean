@@ -1,0 +1,68 @@
+type	features1	features2	comments
+oral	dorsal:-,+	dorsal:0,-,+	multi-segment, (ʰ)Xʷ
+oral	front:-,+	front:0,-,+	multi-segment, (ʰ)Xʲ
+oral	dorsal:-,+; distributed:-,+; strident:-,+	dorsal:0,-,+; distributed:0,-,+; strident:0,-,+	multi-segment, (ʰ)Xʰ
+oral	labial:-,+	labial:-,-,+	multi-segment (roundness excluded), (N)Xʷ
+oral	round:-,+	round:-,-,+	multi-segment (roundness included), (N)Xʷ
+oral	labial:+;dorsal:-;front:0;round:-,+	labial:+;dorsal:-,+;front:-;round:-	pʷ -> pˠ
+oral	dorsal:-,+	dorsal:-,-,+	multi-segment (roundness included), (N)Xʲ
+oral	front:-,+	front:-,-,+	multi-segment (roundness included), (N)Xʲ when X is dorsal
+oral	distributed:+	distributed:-,+	multi-segment, (N)t̪ / (N)s
+oral	strident:-,+; distributed:-,+; dorsal:-,+	strident:-,-,+; distributed:-,-,+; dorsal:-,-,+	multi-segment, (N)tɕ
+oral	strident:-,-,+; distributed:-,-,+; dorsal:-,-,+	strident:-,+; distributed:-,+; dorsal:-,+	multi-segment, (N)tɕ
+oral	strident:+	strident:-,+	multi-segment, e.g. (N)Xs
+oral	strident:-,+	strident:+	pre-nasalization for sibilants
+oral	strident:-,+; dorsal:+,-; front:+	strident:+; dorsal:-; front:0	pre-nasalization with ɲ for sibilants
+oral	lateral:+	lateral:-,+	e.g. ɬ -> tɬ
+oral	lateral:-,+	lateral:-,-,+	e.g. (n)tɬ -> tɬ (very rare)
+oral	retractedTongueRoot:-,+	retractedTongueRoot:-	X -> Xˤ
+oral	distributed:+; strident:+; dorsal:-,+	distributed:+; strident:+; dorsal:-; high:0; low:0; front:0; back:0	ʃʲ/ɕʲ/etc -> ʃ/ɕ/etc allows palatalization on palatalized sibilants to match non-palatalized palatalized sibilants
+oral	distributed:+; strident:+; anterior:+; dorsal:-	distributed:-; strident:+; anterior:+; dorsal:-	s̪ -> s (lets an unusual s count as a normal one)
+oral	strident:+; anterior:+ 	strident:+; anterior:-; distributed:-	(t)s/ɕ -> (t)ʃ (this block must come before t -> s so that a single strident can count for multiple)
+oral	strident:+; anterior:+ 	strident:+; anterior:-; distributed:+	(t)ʃ -> (t)s/ɕ
+oral	strident:+; anterior:-; distributed:+	strident:+; anterior:+; distributed:-	(t)ʂ/ʃ -> (t)s/ɕ
+oral	strident:+; anterior:-; distributed:-	strident:+; anterior:+; distributed:+	(t)ʂ/ʃ -> (t)s/ɕ
+oral	distributed:-,+; strident:-,+; dorsal:-,+	distributed:+; strident:+; dorsal:+	tɕ -> ɕ
+oral	distributed:-,+; strident:-,+; dorsal:-,+; anterior:+; high:+; low:-; front:+; back:-	distributed:+; strident:+; dorsal:-; anterior:-; high:0; low:0; front:0; back:0	tɕ -> ʃ
+oral	distributed:-,+; strident:-,+; dorsal:-,+; anterior:+; high:+; low:-; front:+; back:-	distributed:-; strident:+; dorsal:-; anterior:-; high:0; low:0; front:0; back:0	tɕ -> ʂ
+oral	labial:+; labiodental:-	labial:+; labiodental:+	p -> f
+oral	labial:+; labiodental:-; round:-,+	labial:+; labiodental:+,-; round:-,+	pʷ -> fʷ
+oral	distributed:-; strident:-	distributed:+; strident:-	t -> t̪, θ
+oral	strident:-	strident:+; distributed:0	t/t̪ -> s̪|s
+oral	strident:-	strident:+; distributed:-	t/t̪ -> s; ʈ -> ʂ
+oral	strident:-	strident:+; distributed:+	t -> s̪
+oral	strident:-; distributed:+	strident:+; distributed:-	t̻ -> s
+oral	strident:-; anterior:-; distributed:+	strident:+; anterior:+; distributed:+	c -> ɕ
+oral	coronal:-; anterior:0; distributed:0; strident:0; front:-,+	coronal:+; anterior:+; distributed:+; strident:+; front:+	kʲ -> ɕ
+oral	coronal:-; anterior:0; distributed:0; strident:0; front:-,+	coronal:+; anterior:-; distributed:+; strident:-; front:+	kʲ -> ç
+oral	coronal:-; anterior:0; distributed:0; strident:0; high:+; low:-; front:-,+; back:-; dorsal:+	coronal:+; anterior:-; distributed:+; strident:+; high:+; low:-; front:+; back:-; dorsal:-,+	kʲ -> ʃʲ
+oral	coronal:-; anterior:0; distributed:0; strident:0; high:+; low:-; front:-,+; back:-; dorsal:+	coronal:+; anterior:-; distributed:+; strident:+; high:0; low:0; front:0; back:0; dorsal:-	kʲ -> ʃ
+oral	strident:-; distributed:+; dorsal:+; high:+; low:-; front:+; back:-	strident:+; distributed:+; dorsal:-; high:0; low:0; front:0; back:0	c -> ʃ
+oral	dorsal:-,+; strident:-	dorsal:+; distributed:+; strident:+	tʲ/t̪ʲ -> ɕ
+oral	anterior:+; strident:-; dorsal:-,+; high:+; low:-; front:+; back:-	anterior:-; strident:+; dorsal:-; distributed:+; high:0; low:0; front:0; back:0	tʲ/t̪ʲ -> ʃ
+oral	strident:-; distributed:-	strident:+;distributed:+	ʈ -> ʃ
+oral	coronal:-; anterior:0; distributed:0; strident:0; front:-	coronal:+; anterior:+; distributed:+; strident:+; front:+	k -> ɕ
+oral	coronal:-; anterior:0; distributed:0; strident:0; front:-	coronal:+; anterior:-; distributed:+; strident:-; front:+	k -> ç
+oral	coronal:+; dorsal:-; strident:+; anterior:-; distributed:-	dorsal:+; distributed:+; strident:+; anterior:+; high:+; low:-; front:+; back:-	tʂ -> ɕ, seems motivated in several S-T lgs
+oral	coronal:+; dorsal:-; strident:-	dorsal:+; distributed:+; strident:+; high:+; low:-; front:+; back:-	t/t̪ -> ɕ, seems motivated in several S-T lgs
+oral	high:+; back:-	high:-; back:+	k/x -> q/χ
+oral	coronal:-; anterior:0; distributed:0; strident:0; front:-	coronal:+; anterior:-; distributed:+; strident:+; high:0; low:0; front:0; back:0; dorsal:-	k -> ʃ
+oral	high:-; low:-; back:+; retractedTongueRoot:-	high:-; low:+; back:+; retractedTongueRoot:+	q -> ħ
+oral	high:+; low:-; back:-; retractedTongueRoot:-	high:-; low:+; back:+; retractedTongueRoot:+	k -> ħ
+oral	high:-; back:+	high:+; back:-	q/χ -> k/x
+oral	dorsal:+;labial:-,+;round:+	dorsal:+;labial:-;round:0	k/q/x/χ -> kʷ/qʷ/xʷ/χʷ
+oral	anterior:+; coronal:+; strident:-; dorsal:-; distributed:+; lateral:-	anterior:-; coronal:+; strident:-; dorsal:-; lateral:-; distributed:-	t̪ -> ʐ͇
+airstream	spreadGlottis:+	spreadGlottis:-,+	aspiration for tɕʰ
+airstream	spreadGlottis:+,-	spreadGlottis:+,-,-	pre-aspiration for ʈɕ
+airstream	spreadGlottis:+	spreadGlottis:+,-,+	pre- and post-aspiration tɕ
+airstream	raisedLarynxEjective:+; constrictedGlottis:+	raisedLarynxEjective:-,+; constrictedGlottis:-,+	ejectives for multi-segment affricates e.g. tɬ
+airstream	raisedLarynxEjective:-; constrictedGlottis:+	raisedLarynxEjective:-; constrictedGlottis:-,+	ejectives for specifically tɬ̰
+airstream	sonorant:+,-; nasal:+,-	sonorant:+,-,-; nasal:+,-,-	pre-nasalization for multi-segments
+airstream	periodicGlottalSource:+,-; sonorant:+,-; nasal:+,-	periodicGlottalSource:+,-,-; sonorant:+,-,-; nasal:+,-,-	pre-nasalization for multi-segments
+airstream	periodicGlottalSource:+,-; spreadGlottis:-,+; sonorant:+,-; nasal:+,-	periodicGlottalSource:+,-,-; spreadGlottis:-,-,+; sonorant:+,-,-; nasal:+,-,-	pre-nasalization for voiceless multi-segments
+airstream	periodicGlottalSource:+,-; spreadGlottis:+,-; sonorant:+,-; nasal:+,-	periodicGlottalSource:+,-; spreadGlottis:-; sonorant:+,-; nasal:+,-	pre-nasalization for voiceless multi-segment fricatives
+airstream	periodicGlottalSource:+; sonorant:+,-; nasal:+,-	periodicGlottalSource:+; sonorant:-; nasal:-	pre-nasalization for voiced fricatives
+airstream	periodicGlottalSource:+,-; sonorant:+,-; nasal:+,-	periodicGlottalSource:-; sonorant:-; nasal:-	pre-nasalization for voiceless fricatives
+airstream	periodicGlottalSource:-; spreadGlottis:+;loweredLarynxImplosive:+	periodicGlottalSource:+; spreadGlottis:-;loweredLarynxImplosive:+	combines voiced and voiceless implosives
+airstream	click:+,-; periodicGlottalSource:+,-	click:+; periodicGlottalSource:+	aligns voiced click plosives with voiced click affricates
+airstream	periodicGlottalSource:-;sonorant:+,-;nasal:+,-	periodicGlottalSource:+,-;sonorant:+,-;nasal:+,-	aligns voiceless pre-nasalization with voiced prenasalization

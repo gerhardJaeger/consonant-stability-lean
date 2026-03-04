@@ -1,0 +1,15 @@
+{
+  "name": "model_11",
+  "mu_prior": "normal(2, 1)",
+  "mu_prior_generator": "normal_rng(2, 1)",
+  "V_prior": "lognormal(0, 1)",
+  "V_prior_generator": "lognormal_rng(0, 1)",
+  "tau_prior": "exponential(10)",
+  "tau_prior_generator": "exponential_rng(10)",
+  "t_half_prior": "uniform(0.1, 100)",
+  "t_half_prior_generator": "uniform_rng(0.1, 100)",
+  "transformation": "y[i]",
+  "y_prior_generator": "normal_rng(z_prior[i], tau_prior)",
+  "y_rep_generator": "normal_rng(z[i], tau)",
+  "y_likelihood": "normal_lpdf(y_transformed[i] | z[i], tau)"
+}
