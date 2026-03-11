@@ -15,8 +15,8 @@ sim_data <- map_dfr(files, function(f) {
 })
 
 # empirical range (from main paper)
-emp_lo <- 13.3
-emp_hi <- 26.1
+emp_lo <- 13.2
+emp_hi <- 26.0
 
 # reference data for y=x line
 ref <- tibble(x = c(0.4, 110))
