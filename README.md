@@ -1,6 +1,6 @@
 # Consonant Inventory Stability: Replication Repository
 
-This repository contains the code and data to reproduce the analyses and figures for the paper *[title omitted for review]*.
+This repository contains the code and data to reproduce the analyses and figures for the paper *The stability of oral obstruent series*.
 
 ## Overview
 
