@@ -1,0 +1,8 @@
+	labial:+;labiodental:-;coronal:-;strident:0;anterior:0;distributed:0;dorsal:-;high:0;back:0 | labial:+;labiodental:+;coronal:-;strident:0;anterior:0;distributed:0;dorsal:-;high:0;back:0	labial:-;labiodental:0;coronal:+;strident:-;anterior:+;distributed:-;dorsal:-;high:0;back:0	labial:-;labiodental:0;coronal:+;strident:+;anterior:+;distributed:-;dorsal:-;high:0;back:0	labial:-;labiodental:0;coronal:+;strident:+;anterior:-;distributed:+;dorsal:-;high:0;back:0	labial:-;labiodental:0;coronal:-;strident:0;anterior:0;distributed:0;dorsal:+;high:+;back:-	labial:-;labiodental:0;coronal:-;strident:0;anterior:0;distributed:0;dorsal:+;high:-;back:+	count	markedness_count
+periodicGlottalSource:+;spreadGlottis:-;category:affricate|plosive	b	d			ɡ		3/6	0.8681177362637343
+periodicGlottalSource:+;category:fricative	v		z	ʒ	ɣ		4/6	0.8412671934079695
+periodicGlottalSource:-;spreadGlottis:-;category:affricate|plosive	p	t	ts	t̠ʃ	k	q	6/6	1.0
+periodicGlottalSource:-;category:fricative | periodicGlottalSource:+,-;sonorant:+,-;nasal:+,-;category:fricative	f		s	ʃ	x		4/6	0.8337509340850631
+periodicGlottalSource:-;spreadGlottis:+;category:affricate|plosive	pʰ	tʰ	tsʰ	t̠ʃʰ	kʰ	qʰ	6/6	1.0
+	5/5	3/5	4/5	4/5	5/5	2/5
+	1.0	0.9025973360187686	0.935518373509891	0.8456620010017822	1.0	0.5603507100512608

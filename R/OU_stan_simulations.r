@@ -1,8 +1,3 @@
-Sys.setenv(TMPDIR="/localscratch/nwsja01/cmdstan_tmp",
-           TEMP   ="/localscratch/nwsja01/cmdstan_tmp",
-           TMP    ="/localscratch/nwsja01/cmdstan_tmp")
-
-
 suppressMessages({
     library(tidyverse)
     library(ape)
@@ -22,7 +17,7 @@ d <- suppressMessages(read_csv(data_csv))
 colnames(d) <- c("glottocode", "series_markedness_fullness")
 
 
-tree <- read.nexus("../data/tree_pruned.nex")
+tree <- read.nexus("data/tree_pruned.nex")
 tree <- reorder(tree, "postorder")
 
 # Align to tree order
@@ -47,7 +42,7 @@ stan_data$edge_lengths[stan_data$edge_lengths == 0] <- eps
 
 
 
-mod <- cmdstan_model("OU.stan")
+mod <- cmdstan_model("stan/OU.stan")
 fit <- mod$sample(
   data = stan_data,
   iter_warmup     = 2000,
@@ -55,8 +50,7 @@ fit <- mod$sample(
   chains          = 2,
   parallel_chains = 2,
   save_warmup     = FALSE,
-  seed            = 42,
-  output_dir = "/localscratch/nwsja01/cmdstan_out"
+  seed            = 42
 )
 
 
@@ -68,7 +62,7 @@ fit$summary(variables = c("mu", "sigma", "t_half", "tau"))
 summary <- fit$summary(variables = c("mu", "sigma", "t_half", "tau")) %>% as_tibble
 
 
-outdir <- file.path("..", "data", "simulations_fitted")
+outdir <- file.path("data", "simulations_fitted")
 
 if (file.exists(outdir) && !dir.exists(outdir)) {
     stop(sprintf("Path '%s' exists and is not a directory", outdir))

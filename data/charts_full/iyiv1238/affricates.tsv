@@ -1,0 +1,6 @@
+	labial:-;strident:+;anterior:+;distributed:-;high:0;low:0;front:0;back:0	labial:-;strident:+;anterior:-;distributed:+;high:0;low:0;front:0;back:0 | labial:-;strident:-,+;anterior:-;distributed:+;high:0;low:0;front:0;back:0	labial:-,+;strident:+;anterior:+;distributed:-;high:0;low:0;front:0;back:0	labial:-,+;strident:+;anterior:-;distributed:+;high:0;low:0;front:0;back:0	labial:-,-,+;strident:-,+;anterior:+;distributed:-;high:0;low:0;front:0;back:0	count	markedness_count
+periodicGlottalSource:-;sonorant:-;nasal:-	ts	t̠ʃ	tsʷ	t̠ʃʷ	-	4/4	1.0
+periodicGlottalSource:+;sonorant:-;nasal:-	dz	d̠ʒ	dzʷ		-	3/4	0.9977092689321675
+periodicGlottalSource:+;sonorant:+,-;nasal:+,-	ndz	n̠d̠ʒ	-	-	ndzʷ	3/3	1.0
+	3/3	3/3	2/2	1/2	1/1
+	1.0	1.0	1.0	0.9011207253684462	1.0

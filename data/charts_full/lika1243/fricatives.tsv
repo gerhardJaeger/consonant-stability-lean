@@ -1,0 +1,6 @@
+	labial:+;coronal:-;strident:0;anterior:0;distributed:0;dorsal:-	labial:-;coronal:+;strident:+;anterior:+;distributed:-;dorsal:- | labial:-;coronal:+;strident:-,+;anterior:+;distributed:-;dorsal:-	labial:-;coronal:+;strident:-,+;anterior:-;distributed:+;dorsal:+,- | labial:-;coronal:+;strident:+;anterior:-;distributed:+;dorsal:- | labial:-;coronal:+;strident:+;anterior:-;distributed:+;dorsal:-;front:0	count	markedness_count
+periodicGlottalSource:-;sonorant:-;nasal:-	f	s	ʃ	3/3	1.0
+periodicGlottalSource:+;sonorant:-;nasal:-	v	z	ʒ	3/3	1.0
+periodicGlottalSource:+;sonorant:+,-;nasal:+,-	ɱv	nz	ɲʒ	3/3	1.0
+	3/3	3/3	3/3
+	1.0	1.0	1.0

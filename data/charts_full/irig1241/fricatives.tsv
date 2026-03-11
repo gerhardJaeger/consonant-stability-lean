@@ -1,0 +1,6 @@
+	labial:+;labiodental:+;coronal:-;lateral:-;strident:0;anterior:0;distributed:0;dorsal:-;round:-	labial:-;labiodental:0;coronal:+;lateral:-;strident:-;anterior:+;distributed:+;dorsal:-;round:0	labial:-;labiodental:0;coronal:+;lateral:+;strident:-;anterior:+;distributed:-;dorsal:-;round:0	labial:-;labiodental:0;coronal:+;lateral:-;strident:+;anterior:+;distributed:-;dorsal:-;round:0	labial:-;labiodental:0;coronal:+;lateral:-;strident:+;anterior:-;distributed:+;dorsal:-;round:0	labial:-,+;labiodental:-;coronal:+;lateral:-;strident:+;anterior:-;distributed:+;dorsal:-;round:+	labial:0,-,+;labiodental:-;coronal:+;lateral:-;strident:+;anterior:-;distributed:+;dorsal:-;round:+	labial:+;labiodental:+;coronal:-;lateral:-;strident:0;anterior:0;distributed:0;dorsal:-,+;round:-	labial:-;labiodental:0;coronal:+;lateral:-;strident:-;anterior:+;distributed:+;dorsal:-,+;round:0	count	markedness_count
+periodicGlottalSource:-;constrictedGlottis:+,-	-	-	-	ˀs	-	-	ˀʃʷ	-	-	2/2	1.0
+periodicGlottalSource:+;constrictedGlottis:-	v	ð		z	ʒ	ʒʷ	-	vʲ	ðʲ	7/8	0.976893163287335
+periodicGlottalSource:-;constrictedGlottis:-	f		ɬ	s	ʃ	ʃʷ	-	fʲ		6/8	0.9073342463148141
+	2/2	1/2	1/2	3/3	2/2	2/2	1/1	2/2	1/2
+	1.0	0.28571912209467787	0.8974426058556286	1.0	1.0	1.0	1.0	1.0	0.286372644341998

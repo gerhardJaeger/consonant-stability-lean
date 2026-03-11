@@ -1,0 +1,9 @@
+	labial:+;coronal:-;anterior:0;distributed:0;dorsal:-;front:0	labial:-;coronal:+;anterior:+;distributed:-;dorsal:-;front:0	labial:-;coronal:+;anterior:-;distributed:+;dorsal:+;front:+	labial:-;coronal:-;anterior:0;distributed:0;dorsal:+;front:-	count	markedness_count
+periodicGlottalSource:-;spreadGlottis:-;constrictedGlottis:+;raisedLarynxEjective:+;loweredLarynxImplosive:-;sonorant:-;nasal:-	pʼ	tʼ	cʼ	kʼ	4/4	1.0
+periodicGlottalSource:+;spreadGlottis:-;constrictedGlottis:-;raisedLarynxEjective:-;loweredLarynxImplosive:+;sonorant:-;nasal:-	ɓ				1/4	0.4071014330634248
+periodicGlottalSource:+;spreadGlottis:+;constrictedGlottis:-;raisedLarynxEjective:-;loweredLarynxImplosive:-;sonorant:-;nasal:-	b̤	d̤	ɟ̤	ɡ̤	4/4	1.0
+periodicGlottalSource:+;spreadGlottis:+;constrictedGlottis:-;raisedLarynxEjective:-;loweredLarynxImplosive:-;sonorant:+,-;nasal:+,-	m̤b̤	n̤d̤	ɲ̤ɟ̤	ŋ̤ɡ̤	4/4	1.0
+periodicGlottalSource:+,-;spreadGlottis:-;constrictedGlottis:-,+;raisedLarynxEjective:-,+;loweredLarynxImplosive:-;sonorant:+,-;nasal:+,-	mpʼ	ntʼ	ɲcʼ	ŋkʼ	4/4	1.0
+periodicGlottalSource:-;spreadGlottis:+;constrictedGlottis:-;raisedLarynxEjective:-;loweredLarynxImplosive:-;sonorant:-;nasal:-	pʰ	tʰ	cʰ	kʰ	4/4	1.0
+	6/6	5/6	5/6	5/6
+	1.0	0.8721360940966978	0.7626307620807286	0.97732136602425

@@ -1,0 +1,5 @@
+	labial:+;coronal:-;dorsal:-;front:0	labial:-;coronal:+;dorsal:-;front:0	labial:+;coronal:-;dorsal:-,+;front:+	labial:-;coronal:+;dorsal:-,+;front:+	labial:-;coronal:-;dorsal:+;front:-	labial:-;coronal:-;dorsal:+;front:-,+	count	markedness_count
+periodicGlottalSource:+;spreadGlottis:-	b	d	bʲ	dʲ	ɡ	ɡʲ	6/6	1.0
+periodicGlottalSource:-;spreadGlottis:+	pʰ	tʰ		tʲʰ	kʰ	kʲʰ	5/6	0.9967738126706333
+	2/2	2/2	1/2	2/2	2/2	2/2
+	1.0	1.0	0.7006123362828747	1.0	1.0	1.0

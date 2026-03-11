@@ -1,0 +1,6 @@
+	labial:+;coronal:-;strident:0;anterior:0;distributed:0;dorsal:-	labial:-;coronal:+;strident:+;anterior:+;distributed:-;dorsal:-	labial:-;coronal:+;strident:-;anterior:-;distributed:+;dorsal:+	count	markedness_count
+periodicGlottalSource:+;spreadGlottis:-	bv			1/3	0.0029137304641675497
+periodicGlottalSource:-;spreadGlottis:-	pf	ts	cç	3/3	1.0
+periodicGlottalSource:-;spreadGlottis:+		tsʰ	cçʰ	2/3	0.9995523416261495
+	2/3	2/3	2/3
+	0.9655431687886008	0.7987807790618838	0.6871393099784817

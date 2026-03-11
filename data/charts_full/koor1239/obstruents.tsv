@@ -1,0 +1,10 @@
+	labial:+;coronal:-;strident:0;anterior:0;distributed:0;dorsal:-	labial:-;coronal:+;strident:-;anterior:+;distributed:-;dorsal:-	labial:-;coronal:+;strident:+;anterior:+;distributed:-;dorsal:-	labial:-;coronal:+;strident:+;anterior:-;distributed:+;dorsal:-	labial:-;coronal:-;strident:0;anterior:0;distributed:0;dorsal:+	count	markedness_count
+periodicGlottalSource:+;spreadGlottis:-;constrictedGlottis:-;raisedLarynxEjective:-;loweredLarynxImplosive:-;category:affricate|plosive	b	d	dz	d̠ʒ	ɡ	5/5	1.0
+periodicGlottalSource:+;spreadGlottis:-;constrictedGlottis:-;raisedLarynxEjective:-;loweredLarynxImplosive:+;category:affricate|plosive	ɓ	ɗ	-	-		2/3	0.8036323216451039
+periodicGlottalSource:-;spreadGlottis:+;category:fricative	ɸʰ	-				1/4	0.0409233670931117
+periodicGlottalSource:+;spreadGlottis:-;category:fricative			z	ʒ		2/5	0.4058084863584372
+periodicGlottalSource:-;spreadGlottis:-;category:fricative | periodicGlottalSource:+,-;spreadGlottis:-;sonorant:+,-;nasal:+,-;category:fricative			s	ʃ		2/5	0.5154034675690247
+periodicGlottalSource:-;spreadGlottis:+;constrictedGlottis:-;raisedLarynxEjective:-;loweredLarynxImplosive:-;category:affricate|plosive		tʰ	tsʰ	t̠ʃʰ	kʰ	4/5	0.7894515001325615
+periodicGlottalSource:-;spreadGlottis:-;constrictedGlottis:+;raisedLarynxEjective:+;loweredLarynxImplosive:-;category:affricate|plosive	pʼ	tʼ	tsʼ	t̠ʃʼ	kʼ	5/5	1.0
+	4/7	4/6	5/6	5/6	3/7
+	0.5100218128207269	0.8132511395204726	0.9928813611645816	0.9998483850397002	0.6840931694236876

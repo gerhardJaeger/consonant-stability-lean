@@ -1,0 +1,10 @@
+	labial:+;labiodental:-;coronal:-;strident:0;anterior:0;distributed:0;dorsal:- | labial:+;labiodental:+;coronal:-;strident:0;anterior:0;distributed:0;dorsal:-	labial:-;labiodental:0;coronal:+;strident:-;anterior:+;distributed:-;dorsal:- | labial:-;labiodental:0;coronal:+;strident:-;anterior:+;distributed:+;dorsal:- | labial:-;labiodental:0;coronal:+;strident:-;anterior:+;distributed:-,+;dorsal:-	labial:-;labiodental:0;coronal:+;strident:-,+;anterior:+;distributed:-;dorsal:- | labial:-;labiodental:0;coronal:+;strident:+;anterior:-;distributed:+;dorsal:- | labial:-;labiodental:0;coronal:+;strident:-,+;anterior:-;distributed:+;dorsal:-	labial:+;labiodental:-;coronal:-;strident:0;anterior:0;distributed:0;dorsal:+	labial:-;labiodental:0;coronal:-;strident:0;anterior:0;distributed:0;dorsal:+	count	markedness_count
+periodicGlottalSource:+;spreadGlottis:-;loweredLarynxImplosive:-;sonorant:-;nasal:-;category:affricate|plosive	b		d̠ʒ	ɡb	ɡ	4/5	0.7194315263831241
+periodicGlottalSource:+;spreadGlottis:-;loweredLarynxImplosive:+;sonorant:-;nasal:-;category:affricate|plosive		ɗ	-	-		1/3	0.3965308885816791
+periodicGlottalSource:-;sonorant:-;nasal:-;category:fricative	f	θ	ʃ	-		3/4	0.801810117654554
+periodicGlottalSource:+,-;sonorant:+,-;nasal:+,-;category:fricative	ɱf	nθ	ns	-	-	3/3	1.0
+periodicGlottalSource:-;spreadGlottis:+;loweredLarynxImplosive:-;sonorant:-;nasal:-;category:affricate|plosive		tʰ				1/5	0.2605201931006247
+periodicGlottalSource:+;spreadGlottis:-;loweredLarynxImplosive:-;sonorant:+,-;nasal:+,-;category:affricate|plosive	mb	nd	n̠d̠ʒ	ŋmɡb	ŋɡ	5/5	1.0
+periodicGlottalSource:+,-;spreadGlottis:-;loweredLarynxImplosive:-;sonorant:+,-;nasal:+,-;category:plosive | periodicGlottalSource:+,-;spreadGlottis:-;loweredLarynxImplosive:-;sonorant:+,-;nasal:+,-;category:affricate | periodicGlottalSource:-;spreadGlottis:-;loweredLarynxImplosive:-;sonorant:-;nasal:-;category:plosive | periodicGlottalSource:-;spreadGlottis:-;loweredLarynxImplosive:-;sonorant:-;nasal:-;category:affricate	p	nt	t̠ʃ	kp	k	5/5	1.0
+	5/7	6/7	5/6	3/4	3/6
+	0.8858732112127962	0.778427675492852	0.9199447850470758	0.9995394491542987	0.7540509335762781

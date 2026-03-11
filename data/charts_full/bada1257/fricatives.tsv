@@ -1,0 +1,5 @@
+	labial:+;coronal:-;strident:0;anterior:0;distributed:0;dorsal:-;front:0	labial:-;coronal:+;strident:+;anterior:+;distributed:-;dorsal:-;front:0	labial:-;coronal:+;strident:+;anterior:-;distributed:-;dorsal:-;front:0	labial:-;coronal:-;strident:0;anterior:0;distributed:0;dorsal:+;front:- | labial:-;coronal:+;strident:-;anterior:-;distributed:+;dorsal:+;front:+	count	markedness_count
+periodicGlottalSource:+	v			ʝ	2/4	0.5590289675437592
+periodicGlottalSource:-		s	ʂ	x	3/4	0.7960298008587495
+	1/2	1/2	1/2	2/2
+	0.33747892892306774	0.7899929591646185	0.7852344022042395	1.0

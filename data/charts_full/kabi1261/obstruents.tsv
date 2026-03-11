@@ -1,0 +1,8 @@
+	labial:+;labiodental:-;coronal:-;strident:0;anterior:0;distributed:0;dorsal:- | labial:+;labiodental:+;coronal:-;strident:0;anterior:0;distributed:0;dorsal:-	labial:-;labiodental:0;coronal:+;strident:-;anterior:+;distributed:-;dorsal:-	labial:-;labiodental:0;coronal:+;strident:-;anterior:-;distributed:-;dorsal:-	labial:-;labiodental:0;coronal:+;strident:+;anterior:+;distributed:-;dorsal:- | labial:-;labiodental:0;coronal:+;strident:+;anterior:-;distributed:+;dorsal:-	labial:+;labiodental:-;coronal:-;strident:0;anterior:0;distributed:0;dorsal:+	labial:-;labiodental:0;coronal:-;strident:0;anterior:0;distributed:0;dorsal:+	count	markedness_count
+periodicGlottalSource:+;spreadGlottis:-;category:affricate|plosive	b	d	ɖ	d̠ʒ	ɡb	ɡ	6/6	1.0
+periodicGlottalSource:+;category:fricative	v			z	-		2/5	0.6733320696074879
+periodicGlottalSource:-;spreadGlottis:-;category:affricate|plosive				t̠ʃ			1/6	0.1727146559057072
+periodicGlottalSource:-;category:fricative | periodicGlottalSource:+,-;sonorant:+,-;nasal:+,-;category:fricative	f			s	-		2/5	0.6962053867778408
+periodicGlottalSource:-;spreadGlottis:+;category:affricate|plosive		tʰ			kpʰ	kʰ	3/6	0.5636800720130057
+	3/5	2/5	1/5	4/5	2/3	2/5
+	0.49499366333701694	0.36577402966649275	0.16961707748171048	0.9257309968559754	0.5310498829391384	0.32891986196199946

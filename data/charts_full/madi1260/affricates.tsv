@@ -1,0 +1,6 @@
+	labial:-;strident:+;high:0;low:0;front:0;back:0 | labial:-;strident:-,+;high:0;low:0;front:0;back:0	labial:-,+;strident:+;high:0;low:0;front:0;back:0	count	markedness_count
+periodicGlottalSource:-;sonorant:-;nasal:-	t̠ʃ	t̠ʃʷ	2/2	1.0
+periodicGlottalSource:+;sonorant:-;nasal:-	d̠ʒ		1/2	0.9974015674869577
+periodicGlottalSource:+;sonorant:+,-;nasal:+,-	n̠d̠ʒ	-	1/1	1.0
+	3/3	1/2
+	1.0	0.9367628740750864

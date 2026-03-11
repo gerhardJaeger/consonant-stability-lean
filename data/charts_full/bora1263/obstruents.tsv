@@ -1,0 +1,6 @@
+	labial:+;coronal:-;strident:0;anterior:0;distributed:0;dorsal:-;front:0;round:-	labial:-;coronal:+;strident:-;anterior:+;distributed:-;dorsal:-;front:0;round:0	labial:-;coronal:+;strident:+;anterior:+;distributed:-;dorsal:-;front:0;round:0	labial:-;coronal:+;strident:+;anterior:-;distributed:+;dorsal:-;front:0;round:0	labial:+;coronal:-;strident:0;anterior:0;distributed:0;dorsal:-,+;front:+;round:-	labial:-;coronal:+;strident:-;anterior:+;distributed:-;dorsal:-,+;front:+;round:0	labial:-;coronal:-;strident:0;anterior:0;distributed:0;dorsal:+;front:-;round:0	labial:-;coronal:-;strident:0;anterior:0;distributed:0;dorsal:+;front:-,+;round:0	labial:-,+;coronal:-;strident:0;anterior:0;distributed:0;dorsal:+;front:-;round:+	count	markedness_count
+spreadGlottis:-;category:affricate|plosive	p	t	ts	t̠ʃ	pʲ	tʲ	k	kʲ	kʷ	9/9	1.0
+periodicGlottalSource:+;spreadGlottis:-;constrictedGlottis:-;raisedLarynxEjective:-;loweredLarynxImplosive:-;sonorant:-;nasal:-;fortis:-;category:fricative	β				βʲ					2/9	0.2692054840450123
+spreadGlottis:+;category:affricate|plosive	pʰ	tʰ	tsʰ	t̠ʃʰ	pʲʰ	tʲʰ	kʰ	kʲʰ		8/9	0.9678031912492263
+	3/3	2/3	2/3	2/3	3/3	2/3	2/3	2/3	1/3
+	1.0	0.9788790186206147	0.7614002529393611	0.8944730253294907	1.0	0.9154835102457848	0.9383408563770245	0.9506291603473817	0.8223846421693423

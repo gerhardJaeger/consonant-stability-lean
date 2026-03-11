@@ -1,0 +1,6 @@
+	labial:+;coronal:-;dorsal:-	labial:-;coronal:+;dorsal:-	labial:-;coronal:-;dorsal:+	count	markedness_count
+periodicGlottalSource:-;sonorant:-;nasal:-	p	t	k	3/3	1.0
+periodicGlottalSource:+;sonorant:-;nasal:-	b		ɡ	2/3	0.6522982478065273
+periodicGlottalSource:+;sonorant:+,-;nasal:+,-	mb	nd		2/3	0.6590722085999131
+	3/3	2/3	2/3
+	1.0	0.7168055846771938	0.9776461952673208

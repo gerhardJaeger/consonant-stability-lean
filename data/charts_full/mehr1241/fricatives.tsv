@@ -1,0 +1,6 @@
+	labial:+;coronal:-;lateral:-;strident:0;distributed:0;dorsal:-;high:0;low:0;front:0;back:0;retractedTongueRoot:-	labial:-;coronal:+;lateral:-;strident:-;distributed:+;dorsal:-;high:0;low:0;front:0;back:0;retractedTongueRoot:-	labial:-;coronal:+;lateral:+;strident:-;distributed:-;dorsal:-;high:0;low:0;front:0;back:0;retractedTongueRoot:-	labial:-;coronal:+;lateral:-;strident:+;distributed:-;dorsal:-;high:0;low:0;front:0;back:0;retractedTongueRoot:-	labial:-;coronal:+;lateral:-;strident:+;distributed:+;dorsal:+;high:+;low:-;front:+;back:-;retractedTongueRoot:-	labial:-;coronal:-;lateral:-;strident:0;distributed:0;dorsal:+;high:+;low:-;front:-;back:-;retractedTongueRoot:-	labial:-;coronal:-;lateral:-;strident:0;distributed:0;dorsal:+;high:-;low:+;front:-;back:+;retractedTongueRoot:+	count	markedness_count
+periodicGlottalSource:-;constrictedGlottis:+;raisedLarynxEjective:+		θʼ	ɬʼ	sʼ	ɕʼ			4/7	0.8340747792048875
+periodicGlottalSource:+;constrictedGlottis:-;raisedLarynxEjective:-		ð		z	ʑ	ɣ	ʕ	5/7	0.7110434500265665
+periodicGlottalSource:-;constrictedGlottis:-;raisedLarynxEjective:-	f	θ	ɬ	s	ɕ	x	ħ	7/7	1.0
+	1/3	3/3	2/3	3/3	3/3	2/3	2/3
+	0.6529183676217598	1.0	0.9048884957099267	1.0	1.0	0.995892358359521	0.988988033236322

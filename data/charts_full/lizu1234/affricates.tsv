@@ -1,0 +1,8 @@
+	labiodental:0;strident:+;anterior:+;distributed:-;dorsal:-;round:0 | labiodental:0;strident:-,+;anterior:+;distributed:-;dorsal:-;round:0	labiodental:0;strident:+;anterior:-;distributed:+;dorsal:-;round:0 | labiodental:0;strident:-,+;anterior:-;distributed:+;dorsal:-;round:0	labiodental:0;strident:-,+;anterior:+;distributed:-,+;dorsal:-,+;round:0 | labiodental:0;strident:-,-,+;anterior:+;distributed:-,-,+;dorsal:-,-,+;round:0	count	markedness_count
+periodicGlottalSource:-;spreadGlottis:-;sonorant:-;nasal:-	ts	t̠ʃ	tɕ	3/3	1.0
+periodicGlottalSource:+;spreadGlottis:-;sonorant:-;nasal:-	dz	d̠ʒ	dʑ	3/3	1.0
+periodicGlottalSource:-;spreadGlottis:+;sonorant:-;nasal:- | periodicGlottalSource:-;spreadGlottis:-,+;sonorant:-;nasal:-	tsʰ	t̠ʃʰ	tɕʰ	3/3	1.0
+periodicGlottalSource:+;spreadGlottis:-;sonorant:+,-;nasal:+,- | periodicGlottalSource:+;spreadGlottis:-;sonorant:+,-,-;nasal:+,-,-	ndz	n̠d̠ʒ	ndʑ	3/3	1.0
+periodicGlottalSource:+,-;spreadGlottis:-,+;sonorant:+,-;nasal:+,- | periodicGlottalSource:+,-,-;spreadGlottis:-,-,+;sonorant:+,-,-;nasal:+,-,-	ntsʰ	n̠t̠ʃʰ	ntɕʰ	3/3	1.0
+	5/5	5/5	5/5
+	1.0	1.0	1.0

@@ -1,0 +1,5 @@
+	labial:+;coronal:-;strident:0;anterior:0;distributed:0;dorsal:-;high:0;front:0;back:0	labial:-;coronal:+;strident:+;anterior:+;distributed:-;dorsal:-;high:0;front:0;back:0	labial:-;coronal:+;strident:+;anterior:-;distributed:+;dorsal:-;high:0;front:0;back:0	labial:-;coronal:+;strident:+;anterior:-;distributed:-;dorsal:-;high:0;front:0;back:0	labial:-;coronal:+;strident:-;anterior:-;distributed:+;dorsal:+;high:+;front:+;back:-	labial:-;coronal:-;strident:0;anterior:0;distributed:0;dorsal:+;high:+;front:-;back:-	labial:-;coronal:-;strident:0;anterior:0;distributed:0;dorsal:+;high:-;front:-;back:+	count	markedness_count
+periodicGlottalSource:+	v	z	ʒ	ʐ	ʝ			5/7	0.7702582111098923
+periodicGlottalSource:-	f	s	ʃ	ʂ	ç	x	χ	7/7	1.0
+	2/2	2/2	2/2	2/2	2/2	1/2	1/2
+	1.0	1.0	1.0	1.0	1.0	0.6994419393290061	0.6958683155352414

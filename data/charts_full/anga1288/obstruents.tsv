@@ -1,0 +1,10 @@
+	labial:+;labiodental:-;coronal:-;strident:0;anterior:0;distributed:0;dorsal:-;front:0 | labial:+;labiodental:+;coronal:-;strident:0;anterior:0;distributed:0;dorsal:-;front:0	labial:-;labiodental:0;coronal:+;strident:-;anterior:+;distributed:-;dorsal:-;front:0 | labial:-;labiodental:0;coronal:+;strident:+;anterior:+;distributed:-;dorsal:-;front:0	labial:-;labiodental:0;coronal:-;strident:0;anterior:0;distributed:0;dorsal:+;front:- | labial:-;labiodental:0;coronal:+;strident:-;anterior:-;distributed:+;dorsal:+;front:+	count	markedness_count
+periodicGlottalSource:+;spreadGlottis:-;category:plosive	b	d	ɡ	3/3	1.0
+periodicGlottalSource:+;category:affricate	bv	dz	ɟʝ	3/3	1.0
+periodicGlottalSource:+;category:fricative	v	z	ʝ	3/3	1.0
+periodicGlottalSource:-;spreadGlottis:-;category:plosive | periodicGlottalSource:+,-;spreadGlottis:-;sonorant:+,-;nasal:+,-;category:plosive	p	t	k	3/3	1.0
+periodicGlottalSource:-;category:fricative | periodicGlottalSource:+,-;sonorant:+,-;nasal:+,-;category:fricative	f	s	ç	3/3	1.0
+periodicGlottalSource:-;spreadGlottis:+;category:plosive | periodicGlottalSource:-;spreadGlottis:-,+;category:plosive | periodicGlottalSource:+,-;spreadGlottis:+;sonorant:+,-;nasal:+,-;category:plosive | periodicGlottalSource:+,-;spreadGlottis:-,+;sonorant:+,-;nasal:+,-;category:plosive	pʰ	tʰ	kʰ	3/3	1.0
+periodicGlottalSource:-;category:affricate | periodicGlottalSource:+,-;sonorant:+,-;nasal:+,-;category:affricate	pf	ts	cç	3/3	1.0
+	7/7	7/7	7/7
+	1.0	1.0	1.0

@@ -1,0 +1,5 @@
+	labial:+;coronal:-;dorsal:- | labial:+;coronal:-;dorsal:-,+;front:-;round:- | labial:+;coronal:-;dorsal:-,-,+;front:-;round:-	labial:-;coronal:+;dorsal:-	labial:-;coronal:-;dorsal:+ | labial:-;coronal:+;dorsal:+;anterior:-;distributed:+;strident:-;front:+	count	markedness_count
+constrictedGlottis:-;category:plosive	p	t	k	3/3	1.0
+constrictedGlottis:+,-;category:plosive	ˀp	ˀt		2/3	0.7115259854627528
+	2/2	2/2	1/2
+	1.0	1.0	0.9990384231780477

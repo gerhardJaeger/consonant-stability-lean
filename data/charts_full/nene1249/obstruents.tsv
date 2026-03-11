@@ -1,0 +1,7 @@
+	labial:+;coronal:-;strident:0;distributed:0;dorsal:-;front:0	labial:-;coronal:+;strident:+;distributed:-;dorsal:-;front:0	labial:-;coronal:+;strident:-;distributed:-;dorsal:-;front:0 | labial:-;coronal:+;strident:-;distributed:+;dorsal:-;front:0	labial:+;coronal:-;strident:0;distributed:0;dorsal:-,+;front:+	labial:-;coronal:+;strident:-;distributed:-;dorsal:-,+;front:+	labial:-;coronal:+;strident:+;distributed:-;dorsal:-,+;front:+	labial:-;coronal:-;strident:0;distributed:0;dorsal:+;front:-	count	markedness_count
+periodicGlottalSource:+;category:affricate|plosive	b			bʲ	dʲ			3/7	0.28817691199947143
+periodicGlottalSource:+;category:fricative			ð					1/7	0.0836487454881068
+periodicGlottalSource:-;category:affricate|plosive	p	ts	t	pʲ	tʲ	tsʲ	k	7/7	1.0
+periodicGlottalSource:-;category:fricative | periodicGlottalSource:+,-;sonorant:+,-;nasal:+,-;category:fricative		s				sʲ	x	3/7	0.695350661185
+	2/4	2/4	2/4	2/4	2/4	2/4	2/4
+	0.7765446790726911	0.7911723697958485	0.6571569336790472	0.6536694003264854	0.42957196038014306	0.8339076367033149	0.7132787788175902

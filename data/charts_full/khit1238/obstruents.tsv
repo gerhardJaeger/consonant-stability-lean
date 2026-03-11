@@ -1,0 +1,7 @@
+	labial:+;coronal:-;strident:0;dorsal:- | labial:+;coronal:-;strident:0;dorsal:-,+;front:-;round:- | labial:+;coronal:-;strident:0;dorsal:-,-,+;front:-;round:-	labial:-;coronal:+;strident:-;dorsal:- | labial:-;coronal:+;strident:+;dorsal:- | labial:-;coronal:+;strident:-,+;dorsal:- | labial:-;coronal:+;strident:+;dorsal:-;distributed:- | labial:-;coronal:+;strident:+;dorsal:-;distributed:+ | labial:-;coronal:+;strident:+;dorsal:-;anterior:+;distributed:+	labial:-;coronal:-;strident:0;dorsal:+ | labial:-;coronal:+;strident:+;dorsal:+;anterior:+;distributed:+;front:+ | labial:-;coronal:+;strident:-;dorsal:+;anterior:-;distributed:+;front:+ | labial:-;coronal:+;strident:+;dorsal:-,+;anterior:-;distributed:+;high:+;low:-;front:+;back:-	count	markedness_count
+periodicGlottalSource:+;loweredLarynxImplosive:+;category:plosive		ɗ		1/3	0.4185821334697808
+periodicGlottalSource:-;loweredLarynxImplosive:-;category:plosive | periodicGlottalSource:+,-;loweredLarynxImplosive:-;sonorant:+,-;nasal:+,-;category:plosive	p	t	k	3/3	1.0
+periodicGlottalSource:+;category:fricative	β			1/3	0.19071668550263235
+periodicGlottalSource:-;category:fricative | periodicGlottalSource:+,-;sonorant:+,-;nasal:+,-;category:fricative		s		1/3	0.7557339359565435
+	2/4	3/4	1/4
+	0.7687497321352913	0.8694866200396902	0.7530093460524608

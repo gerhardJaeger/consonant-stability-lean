@@ -1,0 +1,14 @@
+# Claude Code
+CLAUDE.md
+.claude/
+
+# Large Stan fit objects
+sensitivity_analysis/**/fit.rds
+sensitivity_analysis/**/loo.rds
+sensitivity_analysis/**/.*.rds.*
+
+# Large ASR posterior sample CSVs (hundreds of MB each)
+data/asr/asr_*.csv
+
+# R scratch output
+Rplots.pdf

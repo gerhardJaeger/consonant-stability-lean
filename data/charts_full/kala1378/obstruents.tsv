@@ -1,0 +1,7 @@
+	labial:+;coronal:-;strident:0;distributed:0;dorsal:-;front:0 | labial:+;coronal:-;strident:0;distributed:0;dorsal:-,+;front:-;round:- | labial:+;coronal:-;strident:0;distributed:0;dorsal:-,-,+;front:-;round:-	labial:-;coronal:+;strident:-;distributed:+;dorsal:-;front:0 | labial:-;coronal:+;strident:-;distributed:-,+;dorsal:-;front:0 | labial:-;coronal:+;strident:+;distributed:0;dorsal:-;front:0 | labial:-;coronal:+;strident:+;distributed:0;dorsal:-;front:0 | labial:-;coronal:+;strident:+;distributed:-;dorsal:-;front:0 | labial:-;coronal:+;strident:+;distributed:-;dorsal:-;front:0 | labial:-;coronal:+;strident:+;distributed:+;dorsal:-;front:0 | labial:-;coronal:+;strident:+;distributed:+;dorsal:-;front:0 | labial:-;coronal:+;strident:+;distributed:+;dorsal:-;front:0;anterior:+	labial:-;coronal:+;strident:-;distributed:-;dorsal:-;front:0	labial:-;coronal:-;strident:0;distributed:0;dorsal:+;front:- | labial:-;coronal:+;strident:+;distributed:+;dorsal:+;front:+ | labial:-;coronal:+;strident:+;distributed:+;dorsal:+;front:+;anterior:+ | labial:-;coronal:+;strident:-;distributed:+;dorsal:+;front:+;anterior:-	count	markedness_count
+fortis:+;category:plosive	p͈	t̪͈	t̺͈	k͈	4/4	1.0
+fortis:-; ͉:+;category:plosive | fortis:-; ͉:-;category:plosive	p͉	t̪͉	t̺͉	k͉	4/4	1.0
+periodicGlottalSource:+;category:fricative				ʑ	1/4	0.24902263736594293
+periodicGlottalSource:-;category:fricative | periodicGlottalSource:+,-;sonorant:+,-;nasal:+,-;category:fricative				ɕ	1/4	0.20049000053831725
+	2/4	2/4	2/4	4/4
+	0.7763365911777947	0.21952393111556362	0.9480224444565613	1.0

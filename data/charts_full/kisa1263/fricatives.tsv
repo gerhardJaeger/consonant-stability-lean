@@ -1,0 +1,5 @@
+	labial:+;labiodental:-;coronal:-;strident:0;anterior:0;distributed:0;dorsal:- | labial:+;labiodental:+;coronal:-;strident:0;anterior:0;distributed:0;dorsal:-	labial:-;labiodental:0;coronal:+;strident:+;anterior:+;distributed:-;dorsal:- | labial:-;labiodental:0;coronal:+;strident:-,+;anterior:+;distributed:-;dorsal:-	labial:-;labiodental:0;coronal:+;strident:+;anterior:-;distributed:+;dorsal:-	labial:-;labiodental:0;coronal:-;strident:0;anterior:0;distributed:0;dorsal:+	count	markedness_count
+periodicGlottalSource:-;sonorant:-;nasal:-	f	s	ʃ	x	4/4	1.0
+periodicGlottalSource:+;sonorant:+,-;nasal:+,- | periodicGlottalSource:+;sonorant:-;nasal:-	β	nz			2/4	0.5964776861035838
+	2/2	2/2	1/2	1/2
+	1.0	1.0	0.7843079521830666	0.7044347480298516

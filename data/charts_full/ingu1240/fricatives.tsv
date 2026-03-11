@@ -1,0 +1,5 @@
+	labial:+;coronal:-;anterior:0;distributed:0;dorsal:-;high:0;back:0;retractedTongueRoot:-	labial:+;coronal:-;anterior:0;distributed:0;dorsal:-;high:0;back:0;retractedTongueRoot:-,+	labial:-;coronal:+;anterior:+;distributed:-;dorsal:-;high:0;back:0;retractedTongueRoot:-	labial:-;coronal:+;anterior:+;distributed:-;dorsal:-;high:0;back:0;retractedTongueRoot:-,+	labial:-;coronal:+;anterior:-;distributed:+;dorsal:-;high:0;back:0;retractedTongueRoot:-	labial:-;coronal:+;anterior:-;distributed:+;dorsal:-;high:0;back:0;retractedTongueRoot:-,+	labial:-;coronal:-;anterior:-;distributed:+;dorsal:+;high:+;back:-;retractedTongueRoot:-	labial:-;coronal:-;anterior:0;distributed:0;dorsal:+;high:-;back:+;retractedTongueRoot:-	count	markedness_count
+periodicGlottalSource:+	v	vˤ	z	zˤ	ʒ	ʒˤ	-	ʁ	7/7	1.0
+periodicGlottalSource:-	f	-	s		ʃ		x̠		4/7	0.8308340793512987
+	2/2	1/1	2/2	1/2	2/2	1/2	1/1	1/2
+	1.0	1.0	1.0	0.5726649167987322	1.0	0.9315789473684211	1.0	0.299481345605975

@@ -1,0 +1,9 @@
+	labial:+;labiodental:-;coronal:-;strident:0;anterior:0;distributed:0;dorsal:-;high:0;low:0;back:0;retractedTongueRoot:- | labial:+;labiodental:+;coronal:-;strident:0;anterior:0;distributed:0;dorsal:-;high:0;low:0;back:0;retractedTongueRoot:-	labial:-;labiodental:0;coronal:+;strident:-;anterior:+;distributed:-;dorsal:-;high:0;low:0;back:0;retractedTongueRoot:-	labial:-;labiodental:0;coronal:+;strident:+;anterior:+;distributed:-;dorsal:-;high:0;low:0;back:0;retractedTongueRoot:-	labial:-;labiodental:0;coronal:+;strident:+;anterior:-;distributed:+;dorsal:-;high:0;low:0;back:0;retractedTongueRoot:-	labial:-;labiodental:0;coronal:-;strident:0;anterior:0;distributed:0;dorsal:+;high:+;low:-;back:-;retractedTongueRoot:-	labial:-;labiodental:0;coronal:-;strident:0;anterior:0;distributed:0;dorsal:+;high:-;low:-;back:+;retractedTongueRoot:- | labial:-;labiodental:0;coronal:-;strident:0;anterior:0;distributed:0;dorsal:+;high:-;low:+;back:+;retractedTongueRoot:+	count	markedness_count
+periodicGlottalSource:+;spreadGlottis:-;constrictedGlottis:-;raisedLarynxEjective:-;category:affricate|plosive	b	d		d̠ʒ	ɡ		4/6	0.9460538880634717
+periodicGlottalSource:+;category:fricative	v		z	ʒ	ɣ	ʕ	5/6	0.9232804570171602
+periodicGlottalSource:-;spreadGlottis:-;constrictedGlottis:-;raisedLarynxEjective:-;category:affricate|plosive	p	t	ts	t̠ʃ	k	q	6/6	1.0
+periodicGlottalSource:-;category:fricative | periodicGlottalSource:+,-;sonorant:+,-;nasal:+,-;category:fricative	f		s	ʃ	x	χ	5/6	0.8974370216210373
+periodicGlottalSource:-;spreadGlottis:+;constrictedGlottis:-;raisedLarynxEjective:-;category:affricate|plosive	pʰ	tʰ	tsʰ	t̠ʃʰ	kʰ	qʰ	6/6	1.0
+periodicGlottalSource:-;spreadGlottis:-;constrictedGlottis:+;raisedLarynxEjective:+;category:affricate|plosive	pʼ	tʼ	tsʼ	t̠ʃʼ	kʼ	qʼ	6/6	1.0
+	6/6	4/6	5/6	6/6	6/6	5/6
+	1.0	0.9018359199216773	0.9391016857639141	1.0	1.0	0.9332884887443137

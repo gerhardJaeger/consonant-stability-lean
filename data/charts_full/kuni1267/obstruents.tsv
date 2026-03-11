@@ -1,0 +1,7 @@
+	labial:+;coronal:-;strident:0;dorsal:-;high:0;back:0	labial:-;coronal:+;strident:-;dorsal:-;high:0;back:0 | labial:-;coronal:+;strident:+;dorsal:-;high:0;back:0 | labial:-;coronal:+;strident:-,+;dorsal:-;high:0;back:0 | labial:-;coronal:+;strident:+;dorsal:-;high:0;back:0;distributed:0 | labial:-;coronal:+;strident:+;dorsal:-;high:0;back:0;distributed:- | labial:-;coronal:+;strident:+;dorsal:-;high:0;back:0;distributed:+ | labial:-;coronal:+;strident:+;dorsal:-;high:0;back:0;anterior:+;distributed:+	labial:-;coronal:-;strident:0;dorsal:+;high:+;back:- | labial:-;coronal:+;strident:+;dorsal:+;high:+;back:-;anterior:+;distributed:+;front:+ | labial:-;coronal:+;strident:-;dorsal:+;high:+;back:-;anterior:-;distributed:+;front:+ | labial:-;coronal:+;strident:+;dorsal:-,+;high:+;back:-;anterior:-;distributed:+;low:-;front:+	labial:-;coronal:-;strident:0;dorsal:+;high:-;back:+	count	markedness_count
+periodicGlottalSource:+;category:plosive	b	d̪	ɡ	ɢ	4/4	1.0
+periodicGlottalSource:-;category:plosive | periodicGlottalSource:+,-;sonorant:+,-;nasal:+,-;category:plosive	p	t̪|t	k		3/4	0.9443042817967569
+periodicGlottalSource:+;category:fricative		z̪|z			1/4	0.6451810755015619
+periodicGlottalSource:-;category:fricative | periodicGlottalSource:+,-;sonorant:+,-;nasal:+,-;category:fricative		s̪|s			1/4	0.7622780458852713
+	2/4	4/4	2/4	1/4
+	0.7763261414235745	1.0	0.8559908875089128	0.08023284136806356

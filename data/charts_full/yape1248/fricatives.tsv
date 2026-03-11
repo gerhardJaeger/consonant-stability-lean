@@ -1,0 +1,6 @@
+	labial:+;labiodental:-;coronal:-;strident:0;distributed:0;dorsal:- | labial:+;labiodental:+;coronal:-;strident:0;distributed:0;dorsal:-	labial:-;labiodental:0;coronal:+;strident:-;distributed:+;dorsal:-	labial:-;labiodental:0;coronal:+;strident:+;distributed:-;dorsal:-	labial:-;labiodental:0;coronal:-;strident:0;distributed:0;dorsal:+	count	markedness_count
+periodicGlottalSource:+;constrictedGlottis:-	β	ð			2/4	0.3468045980026852
+periodicGlottalSource:+;constrictedGlottis:+	f̰	θ̰			2/4	0.030685056380189202
+periodicGlottalSource:-;constrictedGlottis:-	f	θ	s	x	4/4	1.0
+	3/3	3/3	1/3	1/3
+	1.0	1.0	0.7857980304706484	0.7012528354682324

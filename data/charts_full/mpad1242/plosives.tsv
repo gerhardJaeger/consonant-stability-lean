@@ -1,0 +1,8 @@
+	labial:+;coronal:-;dorsal:-;round:-	labial:-;coronal:+;dorsal:-;round:0	labial:-;coronal:-;dorsal:+;round:0	labial:-,+;coronal:-;dorsal:+;round:+	count	markedness_count
+periodicGlottalSource:-;constrictedGlottis:-;raisedLarynxEjective:-;loweredLarynxImplosive:-;sonorant:-;nasal:-	p	t	k	kʷ	4/4	1.0
+periodicGlottalSource:-;constrictedGlottis:+;raisedLarynxEjective:+;loweredLarynxImplosive:-;sonorant:-;nasal:-			kʼ	kʷʼ	2/4	0.5154280635025341
+periodicGlottalSource:+;constrictedGlottis:-;raisedLarynxEjective:-;loweredLarynxImplosive:-;sonorant:-;nasal:-	b	d	ɡ	ɡʷ	4/4	1.0
+periodicGlottalSource:+;constrictedGlottis:-;raisedLarynxEjective:-;loweredLarynxImplosive:-;sonorant:+,-;nasal:+,-	mb	nd	ŋɡ		3/4	0.9768741351152949
+periodicGlottalSource:+;constrictedGlottis:-;raisedLarynxEjective:-;loweredLarynxImplosive:+;sonorant:-;nasal:-	ɓ	ɗ		-	2/3	0.8107532824294101
+	4/5	4/5	4/5	3/4
+	0.9263780010011224	0.9234939257306464	0.9878479165989021	0.9852783904049912

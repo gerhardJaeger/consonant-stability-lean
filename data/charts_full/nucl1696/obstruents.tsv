@@ -1,0 +1,9 @@
+	labial:+;coronal:-;strident:0;anterior:0;distributed:0;dorsal:-;round:-	labial:+;coronal:-;strident:0;anterior:0;distributed:0;dorsal:-;round:-,+	labial:-;coronal:+;strident:-;anterior:+;distributed:-;dorsal:-;round:0	labial:-;coronal:+;strident:-;anterior:+;distributed:+;dorsal:-;round:0 | labial:-;coronal:+;strident:+;anterior:+;distributed:-;dorsal:-;round:0	labial:-;coronal:+;strident:+;anterior:-;distributed:+;dorsal:-;round:0 | labial:-;coronal:+;strident:-,+;anterior:-;distributed:+;dorsal:-;round:0	labial:-,+;coronal:+;strident:-;anterior:+;distributed:-;dorsal:-;round:+ | labial:-,+;coronal:+;strident:+;anterior:+;distributed:-;dorsal:-;round:+	labial:-;coronal:-;strident:0;anterior:0;distributed:0;dorsal:+;round:0	labial:-,+;coronal:-;strident:0;anterior:0;distributed:0;dorsal:+;round:+ | labial:-,+;coronal:+;strident:+;anterior:-;distributed:+;dorsal:-;round:+ | labial:-,+;coronal:+;strident:+;anterior:-;distributed:+;dorsal:-;round:+;high:0;low:0;front:0;back:0	count	markedness_count
+periodicGlottalSource:-;loweredLarynxImplosive:-;sonorant:-;nasal:-;category:affricate|plosive	p		t			tʷ	k	kʷ	5/8	0.735512908232441
+periodicGlottalSource:+;loweredLarynxImplosive:-;sonorant:-;nasal:-;category:affricate|plosive	b	bʷ	d	d̪̚	d̠ʒ	dʷ	ɡ	ɡʷ	8/8	1.0
+periodicGlottalSource:+;loweredLarynxImplosive:+;sonorant:-;nasal:-;category:affricate|plosive	ɓ	ɓʷ	ɗ		-	ɗʷ		-	4/6	0.7663072868239805
+periodicGlottalSource:+;category:fricative				z	ʒ	zʷ		ʒʷ	4/8	0.4849446089043855
+periodicGlottalSource:+;loweredLarynxImplosive:-;sonorant:+,-;nasal:+,-;category:affricate|plosive	mb		nd		n̠d̠ʒ		ŋɡ		4/8	0.8503245393262949
+periodicGlottalSource:-;category:fricative | periodicGlottalSource:+,-;sonorant:+,-;nasal:+,-;category:fricative				s	ʃ	sʷ		ʃʷ	4/8	0.5917722503222257
+	4/6	2/6	4/6	3/6	4/5	5/6	3/6	4/5
+	0.77457487033436	0.31301555384777074	0.9406572679881698	0.558014384909439	0.5150213069402506	0.985683686689712	0.8118096695790433	0.9899916975536993

@@ -1,0 +1,6 @@
+	labiodental:0;strident:+;distributed:-;dorsal:-;round:0	labiodental:0;strident:-,+;distributed:-,+;dorsal:-,+;round:0	count	markedness_count
+periodicGlottalSource:+;spreadGlottis:-	dz	dʑ	2/2	1.0
+periodicGlottalSource:-;spreadGlottis:-	ts	tɕ	2/2	1.0
+periodicGlottalSource:-;spreadGlottis:+ | periodicGlottalSource:-;spreadGlottis:-,+	tsʰ	tɕʰ	2/2	1.0
+	3/3	3/3
+	1.0	1.0

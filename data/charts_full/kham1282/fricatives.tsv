@@ -1,0 +1,6 @@
+	labiodental:0;coronal:+;anterior:+;distributed:-;dorsal:-;front:0;round:0	labiodental:0;coronal:+;anterior:-;distributed:+;dorsal:-;front:0;round:0	labiodental:0;coronal:+;anterior:+;distributed:+;dorsal:+;front:+;round:0	labiodental:0;coronal:-;anterior:0;distributed:0;dorsal:+;front:-;round:0	count	markedness_count
+periodicGlottalSource:-;spreadGlottis:+	sʰ	ʃʰ	ɕʰ		3/4	0.9680528090301666
+periodicGlottalSource:+;spreadGlottis:-	z	ʒ	ʑ	ɣ	4/4	1.0
+periodicGlottalSource:-;spreadGlottis:-	s	ʃ	ɕ	x	4/4	1.0
+	3/3	3/3	3/3	2/3
+	1.0	1.0	1.0	0.9994129393291932

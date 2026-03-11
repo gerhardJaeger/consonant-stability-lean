@@ -1,0 +1,9 @@
+	labial:+,-;coronal:-,+;strident:+;anterior:+;distributed:-;high:0;low:0;front:0;back:0;round:-	labial:-;coronal:+;strident:+;anterior:+;distributed:-;high:0;low:0;front:0;back:0;round:0	labial:-;coronal:+;strident:+;anterior:-;distributed:+;high:0;low:0;front:0;back:0;round:0 | labial:-;coronal:+;strident:-,+;anterior:-;distributed:+;high:0;low:0;front:0;back:0;round:0	labial:-,+;coronal:+;strident:+;anterior:+;distributed:-;high:0;low:0;front:0;back:0;round:+	count	markedness_count
+periodicGlottalSource:-;spreadGlottis:-;constrictedGlottis:-;raisedLarynxEjective:-;sonorant:-;nasal:-	ps	ts	t̠ʃ		3/4	0.9972874858938966
+periodicGlottalSource:+;spreadGlottis:-;constrictedGlottis:-;raisedLarynxEjective:-;sonorant:-;nasal:-	bz	dz	d̠ʒ	dzʷ	4/4	1.0
+periodicGlottalSource:+;spreadGlottis:+;constrictedGlottis:-;raisedLarynxEjective:-;sonorant:-;nasal:-		d̤z̤	d̠ʒ̤	-	2/3	0.9991460671148166
+periodicGlottalSource:-;spreadGlottis:+;constrictedGlottis:-;raisedLarynxEjective:-;sonorant:-;nasal:-		tsʰ		tsʷʰ	2/4	0.5296606732901903
+periodicGlottalSource:-;spreadGlottis:-;constrictedGlottis:+;raisedLarynxEjective:+;sonorant:-;nasal:-			t̠ʃʼ		1/4	0.5094652794439658
+periodicGlottalSource:+;spreadGlottis:-;constrictedGlottis:-;raisedLarynxEjective:-;sonorant:+,-;nasal:+,-	-		n̠d̠ʒ	-	1/2	0.5267891841101856
+	2/5	4/6	5/6	2/4
+	0.8716812291587527	0.7822190733277946	0.8764271070579156	0.32230661443899283

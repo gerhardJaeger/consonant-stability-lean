@@ -1,0 +1,7 @@
+	labiodental:0;coronal:+;anterior:+;distributed:-;dorsal:-;round:0	labiodental:0;coronal:-;anterior:0;distributed:0;dorsal:+;round:0 | labiodental:0;coronal:+;anterior:-;distributed:+;dorsal:-;round:0 | labiodental:0;coronal:+;anterior:-;distributed:+;dorsal:-;round:0;strident:+;high:0;low:0;front:0;back:0	count	markedness_count
+periodicGlottalSource:+;spreadGlottis:-;constrictedGlottis:-;raisedLarynxEjective:-	dz	d̠ʒ	2/2	1.0
+periodicGlottalSource:-;spreadGlottis:-;constrictedGlottis:-;raisedLarynxEjective:-		xk	1/2	0.7021101323953011
+periodicGlottalSource:-;spreadGlottis:+;constrictedGlottis:-;raisedLarynxEjective:-	tsʰ	t̠ʃʰ	2/2	1.0
+periodicGlottalSource:-;spreadGlottis:-;constrictedGlottis:+;raisedLarynxEjective:+	tsʼ	t̠ʃʼ	2/2	1.0
+	3/4	4/4
+	0.5516032287209263	1.0

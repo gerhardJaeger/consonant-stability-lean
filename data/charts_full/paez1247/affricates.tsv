@@ -1,0 +1,6 @@
+	labiodental:0;strident:+;dorsal:-;round:0	labiodental:0;strident:-,+;dorsal:-,-,+;round:0	labiodental:0;strident:+;dorsal:-,+;round:0	count	markedness_count
+periodicGlottalSource:-;spreadGlottis:-;sonorant:-;nasal:-	ts	-	tsʲ	2/2	1.0
+periodicGlottalSource:-;spreadGlottis:+;sonorant:-;nasal:-	tsʰ	-	tsʲʰ	2/2	1.0
+periodicGlottalSource:+;spreadGlottis:-;sonorant:+,-;nasal:+,-	ndz	ndzʲ		2/3	0.9138551339576862
+	3/3	1/1	2/3
+	1.0	1.0	0.7516306995999082

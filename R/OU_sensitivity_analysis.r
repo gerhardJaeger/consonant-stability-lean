@@ -22,8 +22,8 @@ trait <- traits[trait_no]
 model_no <- if (length(args) > 1) as.integer(args[2]) else 1
 
 
-d <- read_csv("../data/data_pruned.csv", show_col_types = FALSE)
-tree <- read.nexus("tree_families_replaced.nex")
+d <- read_csv("data/data_pruned.csv", show_col_types = FALSE)
+tree <- read.nexus("data/tree_families_replaced.nex")
 tree <- reorder(tree, "postorder")
 
 # Align to tree order
@@ -214,7 +214,7 @@ models <- list(
 
 stan_data$y <- d %>% pull(str_c(trait, "_markedness_fullness"))
 
-model_text <- readLines("sensitivity_analysis/OU_template.stan")
+model_text <- readLines("stan/OU_template.stan")
 
 bundle_to_placeholders <- function(bundle) {
   c(

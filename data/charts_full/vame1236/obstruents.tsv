@@ -1,0 +1,9 @@
+	labial:+;coronal:-;lateral:-;strident:0;anterior:0;distributed:0;dorsal:-;round:-	labial:-;coronal:+;lateral:+;strident:-;anterior:+;distributed:-;dorsal:-;round:0	labial:-;coronal:+;lateral:-;strident:-;anterior:+;distributed:-;dorsal:-;round:0	labial:-;coronal:+;lateral:-;strident:-,+;anterior:+;distributed:-;dorsal:-;round:0	labial:-;coronal:+;lateral:-;strident:+;anterior:+;distributed:-;dorsal:-;round:0	labial:-;coronal:+;lateral:-;strident:+;anterior:-;distributed:+;dorsal:-;round:0 | labial:-;coronal:+;lateral:-;strident:-,+;anterior:-;distributed:+;dorsal:-;round:0	labial:-;coronal:-;lateral:-;strident:0;anterior:0;distributed:0;dorsal:+;round:0	labial:-,+;coronal:-;lateral:-;strident:0;anterior:0;distributed:0;dorsal:+;round:+ | labial:-,-,+;coronal:-;lateral:-;strident:0;anterior:0;distributed:0;dorsal:+;round:+	count	markedness_count
+periodicGlottalSource:-;loweredLarynxImplosive:-;sonorant:-;nasal:-;category:affricate|plosive	p		t		ts	t̠ʃ	k	kʷ	6/8	0.9906315777350925
+periodicGlottalSource:+;loweredLarynxImplosive:-;sonorant:-;nasal:-;category:affricate|plosive	b		d	-	dz	d̠ʒ	ɡ	ɡʷ	6/7	0.9979731594940858
+periodicGlottalSource:+;loweredLarynxImplosive:+;sonorant:-;nasal:-;category:affricate|plosive	ɓ	-	ɗ	-	-	-		-	2/3	0.8038043837605665
+periodicGlottalSource:-;sonorant:-;nasal:-;category:fricative		ɬ		-	s	ʃ			3/7	0.5444772514886024
+periodicGlottalSource:+;loweredLarynxImplosive:-;sonorant:+,-;nasal:+,-;category:affricate|plosive	mb		nd			n̠d̠ʒ	ŋɡ	ŋɡʷ	5/8	0.942246689984683
+periodicGlottalSource:+;sonorant:+,-;nasal:+,-;category:fricative | periodicGlottalSource:+;sonorant:-;nasal:-;category:fricative		ɮ		nz	z	ʒ	ɣ	ɣʷ	6/8	0.6736962243215763
+	4/6	2/5	4/6	1/3	4/5	5/5	4/6	4/5
+	0.7746435405771525	0.6386825949929945	0.9390572809857787	0.9565643801307372	0.9931029199516677	1.0	0.8646023947120157	0.7822895164429826

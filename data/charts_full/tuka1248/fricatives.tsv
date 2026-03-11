@@ -1,0 +1,6 @@
+	labial:+;coronal:-;strident:0;high:0;low:0;front:0;back:0	labial:-;coronal:+;strident:+;high:0;low:0;front:0;back:0 | labial:-;coronal:+;strident:-,+;high:0;low:0;front:0;back:0	count	markedness_count
+periodicGlottalSource:-;sonorant:-;nasal:-		s	1/2	0.7580378982171524
+periodicGlottalSource:+;sonorant:-;nasal:-	β		1/2	0.37969285626736166
+periodicGlottalSource:+,-;sonorant:+,-;nasal:+,-		ns	1/2	0.6452040443492012
+	1/3	2/3
+	0.33516795880290357	0.7917911186197664

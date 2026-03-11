@@ -1,0 +1,7 @@
+	labial:+;coronal:-;lateral:-;strident:0;anterior:0;distributed:0;dorsal:-	labial:-;coronal:+;lateral:+;strident:-;anterior:+;distributed:-;dorsal:-	labial:-;coronal:+;lateral:-;strident:-;anterior:+;distributed:-;dorsal:- | labial:-;coronal:+;lateral:-;strident:+;anterior:+;distributed:-;dorsal:-	labial:-;coronal:+;lateral:-;strident:+;anterior:-;distributed:+;dorsal:-	labial:-;coronal:-;lateral:-;strident:0;anterior:0;distributed:0;dorsal:+	count	markedness_count
+periodicGlottalSource:+;category:affricate|plosive	b		d	d̠ʒ		3/5	0.6883088563879532
+periodicGlottalSource:+;category:fricative			z			1/5	0.3389659062497354
+periodicGlottalSource:-;category:affricate|plosive	p		t	t̠ʃ	k	4/5	0.9904767300018781
+periodicGlottalSource:-;category:fricative | periodicGlottalSource:+,-;sonorant:+,-;nasal:+,-;category:fricative		ɬ	s	ʃ		3/5	0.6194595984479192
+	2/4	1/4	4/4	3/4	1/4
+	0.7765446790726911	0.5779552393045377	1.0	0.9236936179361749	0.5889599683203075

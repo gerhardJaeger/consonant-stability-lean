@@ -1,0 +1,7 @@
+	labiodental:0;strident:+;distributed:-;dorsal:-;round:0	labiodental:0;strident:-,+;distributed:-,+;dorsal:-,+;round:0 | labiodental:0;strident:-,-,+;distributed:-,-,+;dorsal:-,-,+;round:0	count	markedness_count
+periodicGlottalSource:-;spreadGlottis:-;sonorant:-;nasal:-	ts	tɕ	2/2	1.0
+periodicGlottalSource:+;spreadGlottis:-;sonorant:-;nasal:-	dz	dʑ	2/2	1.0
+periodicGlottalSource:-;spreadGlottis:+;sonorant:-;nasal:- | periodicGlottalSource:-;spreadGlottis:-,+;sonorant:-;nasal:-	tsʰ	tɕʰ	2/2	1.0
+periodicGlottalSource:+;spreadGlottis:-;sonorant:+,-;nasal:+,- | periodicGlottalSource:+;spreadGlottis:-;sonorant:+,-,-;nasal:+,-,-	ndz	ndʑ	2/2	1.0
+	4/4	4/4
+	1.0	1.0

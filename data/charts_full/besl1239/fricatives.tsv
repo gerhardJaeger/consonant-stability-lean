@@ -1,0 +1,6 @@
+	labial:+;coronal:-;lateral:-;strident:0;high:0;low:0;front:0;back:0	labial:-;coronal:+;lateral:+;strident:-;high:0;low:0;front:0;back:0	labial:-;coronal:+;lateral:-;strident:+;high:0;low:0;front:0;back:0	count	markedness_count
+periodicGlottalSource:-;sonorant:-;nasal:-	f	ɬ	s	3/3	1.0
+periodicGlottalSource:+;sonorant:-;nasal:-	v	ɮ	z	3/3	1.0
+periodicGlottalSource:+;sonorant:+,-;nasal:+,-	ɱv			1/3	0.5012701868399136
+	3/3	2/3	2/3
+	1.0	0.9999220885116048	0.9986987393415335

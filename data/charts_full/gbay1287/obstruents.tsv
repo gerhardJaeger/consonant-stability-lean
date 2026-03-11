@@ -1,0 +1,9 @@
+	labial:+;labiodental:-;coronal:-;strident:0;dorsal:- | labial:+;labiodental:-;coronal:-;strident:0;dorsal:-,+;front:-;round:- | labial:+;labiodental:-;coronal:-;strident:0;dorsal:-,-,+;front:-;round:- | labial:+;labiodental:+;coronal:-;strident:0;dorsal:- | labial:+;labiodental:+;coronal:-;strident:0;dorsal:-,+;front:-;round:- | labial:+;labiodental:+;coronal:-;strident:0;dorsal:-,-,+;front:-;round:- | labial:+;labiodental:+,-;coronal:-;strident:0;dorsal:-;round:-,+	labial:-;labiodental:0;coronal:+;strident:-;dorsal:- | labial:-;labiodental:0;coronal:+;strident:+;dorsal:- | labial:-;labiodental:0;coronal:+;strident:-,+;dorsal:- | labial:-;labiodental:0;coronal:+;strident:+;dorsal:-;distributed:- | labial:-;labiodental:0;coronal:+;strident:+;dorsal:-;distributed:+ | labial:-;labiodental:0;coronal:+;strident:+;dorsal:-;anterior:+;distributed:+	labial:+;labiodental:-;coronal:-;strident:0;dorsal:+	labial:-;labiodental:0;coronal:-;strident:0;dorsal:+ | labial:-;labiodental:0;coronal:+;strident:+;dorsal:+;anterior:+;distributed:+;front:+ | labial:-;labiodental:0;coronal:+;strident:-;dorsal:+;anterior:-;distributed:+;front:+ | labial:-;labiodental:0;coronal:+;strident:+;dorsal:-,+;anterior:-;distributed:+;high:+;low:-;front:+;back:-	count	markedness_count
+periodicGlottalSource:-;loweredLarynxImplosive:-;sonorant:-;nasal:-;category:plosive	p	t	kp	k	4/4	1.0
+periodicGlottalSource:+;loweredLarynxImplosive:-;sonorant:-;nasal:-;category:plosive	b	d	ɡb	ɡ	4/4	1.0
+periodicGlottalSource:+;loweredLarynxImplosive:-;sonorant:+,-;nasal:+,-;category:plosive	mb	nd	ŋmɡb	ŋɡ	4/4	1.0
+periodicGlottalSource:+;loweredLarynxImplosive:+;sonorant:-;nasal:-;category:plosive	ɓ	ɗ	-		2/3	0.8108077539606614
+periodicGlottalSource:+;category:fricative	v	z	-		2/3	0.82936609860936
+periodicGlottalSource:-;category:fricative | periodicGlottalSource:+,-;sonorant:+,-;nasal:+,-;category:fricative	f	s	-		2/3	0.8727211838529629
+	6/6	6/6	3/3	3/6
+	1.0	1.0	1.0	0.8066353952845224

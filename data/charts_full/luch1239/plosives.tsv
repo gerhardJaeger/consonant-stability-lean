@@ -1,0 +1,6 @@
+	labial:+;coronal:-;distributed:0;dorsal:-	labial:-;coronal:+;distributed:+;dorsal:-	labial:-;coronal:+;distributed:-;dorsal:-	labial:-;coronal:-;distributed:0;dorsal:+	count	markedness_count
+periodicGlottalSource:-;spreadGlottis:-;sonorant:-;nasal:-	p	t̪	t	k	4/4	1.0
+periodicGlottalSource:+;spreadGlottis:-;sonorant:+,-;nasal:+,-	mb		nd	ŋɡ	3/4	0.9317205247771926
+periodicGlottalSource:+,-;spreadGlottis:-,+;sonorant:+,-;nasal:+,-	mpʰ		ntʰ	ŋkʰ	3/4	0.8191754728260184
+	3/3	1/3	3/3	3/3
+	1.0	0.6210680080567537	1.0	1.0

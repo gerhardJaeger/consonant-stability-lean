@@ -1,0 +1,6 @@
+	labiodental:0;lateral:-,+;strident:-;anterior:+;high:0;low:0;front:0;back:0;round:0	labiodental:0;lateral:-;strident:+;anterior:+;high:0;low:0;front:0;back:0;round:0	labiodental:0;lateral:-;strident:+;anterior:-;high:0;low:0;front:0;back:0;round:0	count	markedness_count
+periodicGlottalSource:+;spreadGlottis:-;constrictedGlottis:-;raisedLarynxEjective:-	d̪ɮ̪|dɮ	d̪z̪|dz	d̠ʒ	3/3	1.0
+periodicGlottalSource:-;spreadGlottis:+;constrictedGlottis:-;raisedLarynxEjective:- | periodicGlottalSource:-;spreadGlottis:-,+;constrictedGlottis:-;raisedLarynxEjective:-	t̪ɬ̪ʰ|tɬʰ	t̪s̪ʰ|tsʰ	t̠ʃʰ	3/3	1.0
+periodicGlottalSource:-;spreadGlottis:-;constrictedGlottis:+;raisedLarynxEjective:+ | periodicGlottalSource:-;spreadGlottis:-;constrictedGlottis:-,+;raisedLarynxEjective:-,+	t̪ɬ̪ʼ|tɬʼ	t̪s̪ʼ|tsʼ	t̠ʃʼ	3/3	1.0
+	3/3	3/3	3/3
+	1.0	1.0	1.0

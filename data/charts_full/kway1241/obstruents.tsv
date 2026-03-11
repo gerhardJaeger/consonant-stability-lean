@@ -1,0 +1,7 @@
+	labial:+;labiodental:-;coronal:-;strident:0;anterior:0;distributed:0;dorsal:-;front:0 | labial:+;labiodental:+;coronal:-;strident:0;anterior:0;distributed:0;dorsal:-;front:0	labial:-;labiodental:0;coronal:+;strident:-;anterior:+;distributed:-;dorsal:-;front:0	labial:-;labiodental:0;coronal:-;strident:0;anterior:0;distributed:0;dorsal:+;front:-	labial:-;labiodental:0;coronal:+;strident:-;anterior:-;distributed:+;dorsal:+;front:+ | labial:-;labiodental:0;coronal:+;strident:+;anterior:+;distributed:-;dorsal:-;front:0 | labial:-;labiodental:0;coronal:+;strident:+;anterior:-;distributed:+;dorsal:-;front:0 | labial:-;labiodental:0;coronal:+;strident:+;anterior:-;distributed:+;dorsal:-;front:0;high:0;low:0;back:0	count	markedness_count
+periodicGlottalSource:+;category:affricate|plosive	b	d	ɡ	ɟ	4/4	1.0
+periodicGlottalSource:+;category:fricative	β				1/4	0.24308275879948177
+periodicGlottalSource:-;category:affricate|plosive	p	t	k	t̠ʃ	4/4	1.0
+periodicGlottalSource:-;category:fricative | periodicGlottalSource:+,-;sonorant:+,-;nasal:+,-;category:fricative	f			s	2/4	0.7676577650477979
+	4/4	2/4	2/4	3/4
+	1.0	0.9036894656578184	0.8208175339725856	0.9094689727171498

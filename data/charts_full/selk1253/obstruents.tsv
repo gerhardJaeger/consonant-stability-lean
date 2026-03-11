@@ -1,0 +1,5 @@
+	labial:+;coronal:-;strident:0;distributed:0;dorsal:-;high:0;front:0;back:0	labial:-;coronal:+;strident:-;distributed:-;dorsal:-;high:0;front:0;back:0 | labial:-;coronal:+;strident:+;distributed:-;dorsal:-;high:0;front:0;back:0	labial:-;coronal:-;strident:0;distributed:0;dorsal:+;high:+;front:-;back:-	labial:-;coronal:-;strident:0;distributed:0;dorsal:+;high:-;front:-;back:+	labial:-;coronal:+;strident:-,+;distributed:-,+;dorsal:-,+;high:+;front:+;back:- | labial:-;coronal:+;strident:+;distributed:+;dorsal:+;high:+;front:+;back:-	count	markedness_count
+periodicGlottalSource:-;spreadGlottis:-;constrictedGlottis:-;raisedLarynxEjective:-;loweredLarynxImplosive:-;sonorant:-;nasal:-;fortis:-;category:affricate|plosive	p	t	k	q	tɕ	5/5	1.0
+periodicGlottalSource:-;spreadGlottis:-;constrictedGlottis:-;raisedLarynxEjective:-;loweredLarynxImplosive:-;sonorant:-;nasal:-;fortis:-;category:fricative		s			ɕ	2/5	0.6904592798554473
+	1/2	2/2	1/2	1/2	2/2
+	0.6996593026933636	1.0	0.8186734917671253	0.5163737779464461	1.0

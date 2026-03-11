@@ -1,0 +1,5 @@
+	labial:+;coronal:-;anterior:0;distributed:0;dorsal:-;high:0;back:0	labial:-;coronal:+;anterior:+;distributed:-;dorsal:-;high:0;back:0	labial:-;coronal:+;anterior:-;distributed:+;dorsal:-;high:0;back:0	labial:-;coronal:-;anterior:0;distributed:0;dorsal:+;high:+;back:-	labial:-;coronal:-;anterior:0;distributed:0;dorsal:+;high:-;back:+	count	markedness_count
+periodicGlottalSource:+		z	ʒ	ɣ	ʁ	4/5	0.7282429816206164
+periodicGlottalSource:-	f	s	ʃ	x	χ	5/5	1.0
+	1/2	2/2	2/2	2/2	2/2
+	0.6625450972908989	1.0	1.0	1.0	1.0

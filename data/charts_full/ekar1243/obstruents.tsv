@@ -1,0 +1,5 @@
+	labial:+;coronal:-;lateral:-;dorsal:- | labial:+;coronal:-;lateral:-;dorsal:-,+;front:-;round:- | labial:+;coronal:-;lateral:-;dorsal:-,-,+;front:-;round:-	labial:-;coronal:+;lateral:-;dorsal:-	labial:-;coronal:-;lateral:-,+;dorsal:+	labial:-;coronal:-;lateral:-;dorsal:+ | labial:-;coronal:+;lateral:-;dorsal:+;anterior:-;distributed:+;strident:-;front:+	count	markedness_count
+periodicGlottalSource:+;category:plosive	b	d	ɡˡ		3/4	0.6610903781530473
+periodicGlottalSource:-;category:plosive | periodicGlottalSource:+,-;sonorant:+,-;nasal:+,-;category:plosive	p	t	-	k	3/3	1.0
+	2/2	2/2	1/1	1/2
+	1.0	1.0	1.0	0.7131563787099695

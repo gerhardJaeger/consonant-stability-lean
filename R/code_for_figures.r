@@ -1,5 +1,11 @@
 ## Generate figures
 
+# Ensure PROJ can find its database when running inside a conda environment
+if (nchar(Sys.getenv("PROJ_LIB")) == 0) {
+  proj_lib <- file.path(dirname(dirname(R.home())), "share", "proj")
+  if (dir.exists(proj_lib)) Sys.setenv(PROJ_LIB = proj_lib)
+}
+
 library(tidyverse)
 library(sf)
 options(repr.plot.width = 20, repr.plot.height = 12.4)
@@ -7,8 +13,8 @@ library(svglite)
 library(patchwork)
 library(rnaturalearth)
 
-d <- read_csv("../data/data_pruned.csv")
-# tree <- read.nexus("../data/tree_pruned.nex")
+d <- read_csv("data/data_pruned.csv")
+# tree <- read.nexus("data/tree_pruned.nex")
 
 p1 <- d %>%
     ggplot(aes(x = series_markedness_fullness)) + 
@@ -47,7 +53,7 @@ p4 <- d %>%
 
 
 combined_plot <- (p2 | p3 | p4) / p1
-ggsave("../figures/histograms.svg", combined_plot, width = 20, height = 12.4)
+ggsave("figures/histograms.svg", combined_plot, width = 20, height = 12.4)
 combined_plot
 
 create_violin_plot <- function(data, y_var, title, use_pseudo_log = FALSE) {
@@ -97,7 +103,7 @@ combined_plot <- (plot_plosive + plot_fricative + plot_affricate) / plot_series 
 # Display the combined plot
 combined_plot
 
-ggsave("../figures/macro_areas.svg", plot = combined_plot, width = 18, height = 12, device = "svg")
+ggsave("figures/macro_areas.svg", plot = combined_plot, width = 18, height = 12, device = "svg")
 
 d_geo <- d %>%
     st_as_sf(coords = c("Longitude", "Latitude"), crs = 4326)
@@ -170,7 +176,7 @@ pmf_map <- ggplot(data = worldMap) +
   )
 pmf_map
 
-ggsave("../figures/plosives_map.svg", plot = pmf_map, width = 18, height = 12, device = "svg")
+ggsave("figures/plosives_map.svg", plot = pmf_map, width = 18, height = 12, device = "svg")
 
 fmf_map <- ggplot(data = worldMap) +
   geom_sf(data = ocean, fill = "#d0e6f7") +
@@ -198,7 +204,7 @@ fmf_map <- ggplot(data = worldMap) +
   )
 fmf_map
 
-ggsave("../figures/fricatives_map.svg", plot = fmf_map, width = 18, height = 12, device = "svg")
+ggsave("figures/fricatives_map.svg", plot = fmf_map, width = 18, height = 12, device = "svg")
 
 amf_map <- ggplot(data = worldMap) +
   geom_sf(data = ocean, fill = "#d0e6f7") +
@@ -227,7 +233,7 @@ amf_map <- ggplot(data = worldMap) +
   )
 amf_map
 
-ggsave("../figures/affricates_map.svg", plot = amf_map, width = 18, height = 12, device = "svg")
+ggsave("figures/affricates_map.svg", plot = amf_map, width = 18, height = 12, device = "svg")
 
 library(ggplot2)
 
@@ -256,5 +262,5 @@ smf_map <- ggplot(data = worldMap) +
 
 smf_map
 
-ggsave("../figures/series_map.svg", plot = smf_map, width = 18, height = 12, device = "svg")
+ggsave("figures/series_map.svg", plot = smf_map, width = 18, height = 12, device = "svg")
 

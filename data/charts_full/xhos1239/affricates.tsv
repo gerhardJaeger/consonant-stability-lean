@@ -1,0 +1,8 @@
+	labial:+;coronal:-;lateral:-;strident:0;anterior:0;distributed:0;dorsal:-	labial:-;coronal:+;lateral:-,-,+;strident:-;anterior:+;distributed:-;dorsal:-	labial:-;coronal:+;lateral:-;strident:+;anterior:+;distributed:-;dorsal:- | labial:-;coronal:+;lateral:-;strident:-,+;anterior:+;distributed:-;dorsal:-	labial:-;coronal:+;lateral:-;strident:+;anterior:-;distributed:+;dorsal:- | labial:-;coronal:+;lateral:-;strident:-,+;anterior:-;distributed:+;dorsal:-	labial:-;coronal:-;lateral:-;strident:0;anterior:0;distributed:0;dorsal:+	count	markedness_count
+periodicGlottalSource:+;spreadGlottis:+;constrictedGlottis:-;raisedLarynxEjective:-;sonorant:-;nasal:-		-		d̠̤ʒ̤		1/4	0.23017021134611615
+periodicGlottalSource:+,-;spreadGlottis:-;constrictedGlottis:-,+;raisedLarynxEjective:-,+;sonorant:+,-;nasal:+,-	mpfʼ	-	ntsʼ	n̠t̠ʃʼ	-	3/3	1.0
+periodicGlottalSource:-;spreadGlottis:+;constrictedGlottis:-;raisedLarynxEjective:-;sonorant:-;nasal:-		-	tsʰ	t̠ʃʰ	kxʰ	3/4	0.9995523948552041
+periodicGlottalSource:-;spreadGlottis:-;constrictedGlottis:+;raisedLarynxEjective:+;sonorant:-;nasal:-		-	tsʼ	t̠ʃʼ	kxʼ	3/4	0.9998550852959223
+periodicGlottalSource:+;spreadGlottis:+;constrictedGlottis:-;raisedLarynxEjective:-;sonorant:+,-;nasal:+,- | periodicGlottalSource:+;spreadGlottis:+;constrictedGlottis:-;raisedLarynxEjective:-;sonorant:+,-,-;nasal:+,-,-	m̤b̤v̤	n̤d̤ɮ̤	n̤d̤z̤	n̠̤d̠̤ʒ	-	4/4	1.0
+	2/5	1/1	4/5	5/5	2/3
+	0.12414874161804378	1.0	0.9616866472944913	1.0	0.9718133105487965

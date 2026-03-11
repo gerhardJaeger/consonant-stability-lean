@@ -1,0 +1,7 @@
+	labial:+;coronal:-;strident:0;anterior:0;distributed:0;dorsal:-;round:-	labial:+;coronal:-;strident:0;anterior:0;distributed:0;dorsal:-;round:-,+ | labial:+;coronal:-;strident:0;anterior:0;distributed:0;dorsal:-;round:-,-,+	labial:-;coronal:+;strident:-;anterior:+;distributed:-;dorsal:-;round:0 | labial:-;coronal:+;strident:+;anterior:+;distributed:-;dorsal:-;round:0	labial:-;coronal:+;strident:+;anterior:-;distributed:+;dorsal:-;round:0 | labial:-;coronal:+;strident:-,+;anterior:-;distributed:+;dorsal:-;round:0	labial:-;coronal:-;strident:0;anterior:0;distributed:0;dorsal:+;round:0	labial:-,+;coronal:-;strident:0;anterior:0;distributed:0;dorsal:+;round:+ | labial:-,-,+;coronal:-;strident:0;anterior:0;distributed:0;dorsal:+;round:+	count	markedness_count
+periodicGlottalSource:-;sonorant:-;nasal:-;category:affricate|plosive			t	t̠ʃ	k	kʷ	4/6	0.796620426098272
+periodicGlottalSource:+;category:fricative	β						1/6	0.2663874767394176
+periodicGlottalSource:+;sonorant:+,-;nasal:+,-;category:affricate|plosive	mb	mbʷ	nd	n̠d̠ʒ	ŋɡ	ŋɡʷ	6/6	1.0
+periodicGlottalSource:-;category:fricative | periodicGlottalSource:+,-;sonorant:+,-;nasal:+,-;category:fricative	ɸ	ɸʷ	s	ʃ			4/6	0.7707197805728768
+	3/4	2/4	3/4	3/4	2/4	2/4
+	0.5013677992913921	0.6371644000811546	0.9414785611624714	0.9229516648555103	0.8213990083936559	0.7363744930152132

@@ -1,0 +1,7 @@
+	labial:+;labiodental:+;coronal:-;strident:0;anterior:0;distributed:0;dorsal:-;front:0;round:-	labial:+;labiodental:+,-;coronal:-;strident:0;anterior:0;distributed:0;dorsal:-;front:0;round:-,+	labial:-;labiodental:0;coronal:+;strident:+;anterior:+;distributed:-;dorsal:-;front:0;round:0 | labial:-;labiodental:0;coronal:+;strident:-,+;anterior:+;distributed:-;dorsal:-;front:0;round:0	labial:-;labiodental:0;coronal:+;strident:+;anterior:-;distributed:+;dorsal:-;front:0;round:0 | labial:-;labiodental:0;coronal:+;strident:-,+;anterior:-;distributed:+;dorsal:-;front:0;round:0	labial:+;labiodental:+;coronal:-;strident:0;anterior:0;distributed:0;dorsal:-,-,+;front:+;round:-	labial:-;labiodental:0;coronal:-;strident:0;anterior:0;distributed:0;dorsal:+;front:-;round:0	labial:-;labiodental:0;coronal:-;strident:0;anterior:0;distributed:0;dorsal:+;front:-,-,+;round:0	labial:-,-,+;labiodental:-;coronal:-;strident:0;anterior:0;distributed:0;dorsal:+;front:-;round:+	labial:-,-,+;labiodental:-;coronal:-;strident:0;anterior:0;distributed:0;dorsal:+;front:-,-,+;round:+	count	markedness_count
+periodicGlottalSource:-;sonorant:-;nasal:-	f	fʷ	s	ʃ	-	x	-	-	-	5/5	1.0
+periodicGlottalSource:+;sonorant:-;nasal:-	v		z	ʒ	-	ɣ	-	-	-	4/5	0.9998043508687319
+periodicGlottalSource:+;sonorant:+,-;nasal:+,-	ɱv	-				ŋɣ	ŋɣʲ	ŋɣʷ	ŋɣᶣ	5/8	0.5800504866748434
+periodicGlottalSource:+,-;sonorant:+,-;nasal:+,-	ɱf	-	ns	n̠ʃ	ɱfʲ	-	-	-	-	4/4	1.0
+	4/4	1/2	3/4	3/4	1/2	3/3	1/1	1/1	1/1
+	1.0	0.9721589332776838	0.9983103665008793	0.9999764358839396	0.5	1.0	1.0	1.0	1.0

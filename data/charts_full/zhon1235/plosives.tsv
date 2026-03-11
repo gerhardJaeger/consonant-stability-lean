@@ -1,0 +1,9 @@
+	labial:+;coronal:-;dorsal:-;high:0;back:0	labial:-;coronal:+;dorsal:-;high:0;back:0	labial:-;coronal:-;dorsal:+;high:+;back:-	labial:-;coronal:-;dorsal:+;high:-;back:+	count	markedness_count
+periodicGlottalSource:-;spreadGlottis:-;sonorant:-;nasal:-	p	t	k	q	4/4	1.0
+periodicGlottalSource:-;spreadGlottis:+,-;sonorant:-;nasal:-	ʰp	ʰt	ʰk	-	3/3	1.0
+periodicGlottalSource:+;spreadGlottis:-;sonorant:-;nasal:-	b	d	ɡ		3/4	0.9816831880012846
+periodicGlottalSource:+;spreadGlottis:-;sonorant:+,-;nasal:+,-	mb	nd	ŋɡ		3/4	0.999269043289884
+periodicGlottalSource:+,-;spreadGlottis:-,+;sonorant:+,-;nasal:+,-	mpʰ	ntʰ	ŋkʰ		3/4	0.852566365628032
+periodicGlottalSource:-;spreadGlottis:+;sonorant:-;nasal:-	pʰ	tʰ	kʰ	qʰ	4/4	1.0
+	6/6	6/6	6/6	2/5
+	1.0	1.0	1.0	0.8671148072327226

@@ -1,0 +1,6 @@
+	labial:+;coronal:-;anterior:0;distributed:0;dorsal:-;front:0	labial:-;coronal:+;anterior:+;distributed:-;dorsal:-;front:0 | labial:-;coronal:+;anterior:+;distributed:+;dorsal:-;front:0 | labial:-;coronal:+;anterior:+;distributed:+;dorsal:-;front:0;strident:-	labial:-;coronal:+;anterior:-;distributed:-;dorsal:-;front:0	labial:-;coronal:+;anterior:-;distributed:+;dorsal:+;front:+	labial:-;coronal:-;anterior:0;distributed:0;dorsal:+;front:-	count	markedness_count
+periodicGlottalSource:+;loweredLarynxImplosive:-	b	d̪	ɖ	ɟ	ɡ	5/5	1.0
+periodicGlottalSource:+;loweredLarynxImplosive:+	ɓ	ɗ		ʄ		3/5	0.8930850919925937
+periodicGlottalSource:-;loweredLarynxImplosive:-	p	t̪	ʈ	c	k	5/5	1.0
+	3/3	3/3	2/3	3/3	2/3
+	1.0	1.0	0.9857865768666627	1.0	0.9942958712195662

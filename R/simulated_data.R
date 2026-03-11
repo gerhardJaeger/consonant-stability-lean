@@ -8,11 +8,11 @@ library(OUwie)
 library(castor)
 
 
-tree <- read.nexus("../data/tree_pruned.nex")
+tree <- read.nexus("data/tree_pruned.nex")
 
 # Generate Bounded Brownian Motion data
 
-dir.create("../data/simulated/", recursive = TRUE, showWarnings = FALSE)
+dir.create("data/simulated/", recursive = TRUE, showWarnings = FALSE)
 
 for (s in c(0.01, 0.02, 0.03, 0.04, 0.05, 0.06, 0.07, 0.08, 0.09, 0.1)) {
   x <- fastBM(tree, sig2=s, a=4, bounds = c(1,10), internal=TRUE)
@@ -25,7 +25,7 @@ for (s in c(0.01, 0.02, 0.03, 0.04, 0.05, 0.06, 0.07, 0.08, 0.09, 0.1)) {
   
   #hist(x$series_markedness_fullness)
   
-  write.csv(x, file=paste0("../data/simulated/BBM_sig_",s,".csv"), row.names=TRUE)
+  write.csv(x, file=paste0("data/simulated/BBM_sig_",s,".csv"), row.names=TRUE)
 }
 
 # Generate Bounded OU Brownian Motion data
@@ -41,7 +41,7 @@ for (sd in c(0.5, 1, 1.5, 2, 2.5, 3, 3.5, 4, 4.5, 5)) {
     
     x <- OUwie_dat %>% dplyr::select(species, x) %>% dplyr::rename(series_markedness_fullness = x, glottocode = species)
     
-    write.csv(x, file=paste0("../data/simulated/OU_sd_",sd,"_thalf_",t_half,".csv"), row.names=FALSE)
+    write.csv(x, file=paste0("data/simulated/OU_sd_",sd,"_thalf_",t_half,".csv"), row.names=FALSE)
   }
 }
 

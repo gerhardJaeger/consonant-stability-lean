@@ -1,0 +1,6 @@
+	labiodental:0;anterior:+;distributed:+;high:0;low:0;front:0;back:0;round:0	labiodental:0;anterior:-;distributed:+;high:0;low:0;front:0;back:0;round:0	labiodental:0;anterior:-;distributed:-;high:0;low:0;front:0;back:0;round:0	count	markedness_count
+periodicGlottalSource:+;spreadGlottis:-		d̠ʒ	ɖʐ	2/3	0.5412260629669472
+periodicGlottalSource:-;spreadGlottis:-	t̪s̪	t̠ʃ	ʈʂ	3/3	1.0
+periodicGlottalSource:-;spreadGlottis:+		t̠ʃʰ	ʈʂʰ	2/3	0.4444928273887963
+	1/3	3/3	3/3
+	0.6797541547003277	1.0	1.0

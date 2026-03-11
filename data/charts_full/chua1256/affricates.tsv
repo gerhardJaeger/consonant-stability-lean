@@ -1,0 +1,7 @@
+	labiodental:0;strident:+;anterior:+;distributed:+;high:0;low:0;front:0;back:0;round:0 | labiodental:0;strident:-,+;anterior:+;distributed:+;high:0;low:0;front:0;back:0;round:0	labiodental:0;strident:+;anterior:-;distributed:+;high:0;low:0;front:0;back:0;round:0 | labiodental:0;strident:-,+;anterior:-;distributed:+;high:0;low:0;front:0;back:0;round:0	labiodental:0;strident:+;anterior:-;distributed:-;high:0;low:0;front:0;back:0;round:0 | labiodental:0;strident:-,+;anterior:-;distributed:-;high:0;low:0;front:0;back:0;round:0	count	markedness_count
+periodicGlottalSource:-;spreadGlottis:-;sonorant:-;nasal:-	t̪s̪	t̠ʃ	ʈʂ	3/3	1.0
+periodicGlottalSource:-;spreadGlottis:+;sonorant:-;nasal:-	t̪s̪ʰ	t̠ʃʰ	ʈʂʰ	3/3	1.0
+periodicGlottalSource:+,-;spreadGlottis:-;sonorant:+,-;nasal:+,-	n̪t̪s̪	n̠t̠ʃ	ɳʈʂ	3/3	1.0
+periodicGlottalSource:+,-;spreadGlottis:-,+;sonorant:+,-;nasal:+,-	n̪t̪s̪ʰ	n̠t̠ʃʰ	ɳʈʂʰ	3/3	1.0
+	4/4	4/4	4/4
+	1.0	1.0	1.0

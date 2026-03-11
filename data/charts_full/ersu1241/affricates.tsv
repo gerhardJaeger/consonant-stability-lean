@@ -1,0 +1,8 @@
+	labiodental:0;strident:+;distributed:+;dorsal:-;round:0 | labiodental:0;strident:-,+;distributed:+;dorsal:-;round:0	labiodental:0;strident:-;distributed:-;dorsal:-;round:0	labiodental:0;strident:-,+;distributed:-,+;dorsal:-,+;round:0 | labiodental:0;strident:-,-,+;distributed:-,-,+;dorsal:-,-,+;round:0	count	markedness_count
+periodicGlottalSource:-;spreadGlottis:-;sonorant:-;nasal:-	t̪s̪	t͇s͇	tɕ	3/3	1.0
+periodicGlottalSource:+;spreadGlottis:-;sonorant:-;nasal:-	d̪z̪	d͇z͇	dʑ	3/3	1.0
+periodicGlottalSource:-;spreadGlottis:+;sonorant:-;nasal:- | periodicGlottalSource:-;spreadGlottis:-,+;sonorant:-;nasal:-	t̪s̪ʰ	t͇s͇ʰ	tɕʰ	3/3	1.0
+periodicGlottalSource:+;spreadGlottis:-;sonorant:+,-;nasal:+,- | periodicGlottalSource:+;spreadGlottis:-;sonorant:+,-,-;nasal:+,-,-	n̪d̪z̪	nd͇z͇	ndʑ	3/3	1.0
+periodicGlottalSource:+,-;spreadGlottis:-,+;sonorant:+,-;nasal:+,- | periodicGlottalSource:+,-,-;spreadGlottis:-,-,+;sonorant:+,-,-;nasal:+,-,-	n̪t̪s̪ʰ	nt͇s͇ʰ	ntɕʰ	3/3	1.0
+	5/5	5/5	5/5
+	1.0	1.0	1.0

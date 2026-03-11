@@ -1,0 +1,8 @@
+	labial:+;coronal:-;strident:0;anterior:0;dorsal:-;front:0 | labial:+;coronal:-;strident:0;anterior:0;dorsal:-,+;front:-;round:- | labial:+;coronal:-;strident:0;anterior:0;dorsal:-,-,+;front:-;round:-	labial:-;coronal:+;strident:-;anterior:+;dorsal:-;front:0 | labial:-;coronal:+;strident:+;anterior:+;dorsal:-;front:0;distributed:0 | labial:-;coronal:+;strident:-;anterior:-;dorsal:-;front:0;lateral:-;distributed:-	labial:-;coronal:-;strident:0;anterior:0;dorsal:+;front:-	labial:-;coronal:+;strident:-;anterior:-;dorsal:+;front:+ | labial:-;coronal:+;strident:+;anterior:+;dorsal:+;front:+;distributed:+ | labial:-;coronal:+;strident:+;anterior:-;dorsal:-;front:0 | labial:-;coronal:+;strident:-,+;anterior:-;dorsal:-;front:0 | labial:-;coronal:+;strident:+;anterior:+;dorsal:-;front:0;distributed:- | labial:-;coronal:+;strident:+;anterior:+;dorsal:-;front:0;distributed:+ | labial:-;coronal:+;strident:+;anterior:-;dorsal:-;front:0;distributed:+;high:0;low:0;back:0	count	markedness_count
+periodicGlottalSource:+;loweredLarynxImplosive:-;category:plosive	b	d̪|d	ɡ	ɟ	4/4	1.0
+periodicGlottalSource:+;loweredLarynxImplosive:+;category:plosive	ɓ	ɗ̪|ɗ		ʄ	3/4	0.9227634150173348
+periodicGlottalSource:-;loweredLarynxImplosive:-;category:plosive | periodicGlottalSource:+,-;loweredLarynxImplosive:-;sonorant:+,-;nasal:+,-;category:plosive	p	t̪|t	k	c	4/4	1.0
+periodicGlottalSource:+;category:fricative				ʒ	1/4	0.49878332115743956
+periodicGlottalSource:-;category:fricative | periodicGlottalSource:+,-;sonorant:+,-;nasal:+,-;category:fricative				ʃ	1/4	0.6059614798586355
+	3/5	3/5	2/5	5/5
+	0.7761143908946495	0.9003395499597969	0.8141938381155446	1.0

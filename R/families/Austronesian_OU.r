@@ -13,18 +13,14 @@ library(codetools)
 options(mc.cores = parallel::detectCores())
 rstan_options("auto_write" = TRUE)
 
-d <- read_tsv("../families/Austronesian/series_counts.tsv")
+d <- read_tsv("data/series_counts.tsv")
 
-tree <- read.nexus("../families/Austronesian/phylogeny/grayetal2009.summary.trees") %>% multi2di()
+tree <- read.nexus("data/families/Austronesian/phylogeny/grayetal2009.summary.trees") %>% multi2di()
 
-conversion <- read_csv("../families/Austronesian/phylogeny/austronesian_conversion.csv")
+conversion <- read_csv("data/families/Austronesian/phylogeny/austronesian_conversion.csv")
 
-d <- inner_join(d, conversion, by = "glottocode")
-
-# rename "series fullness" to "series_fullness"
-
-d <- d %>% rename(series_fullness = `series fullness`) %>%
-    select(name, series_fullness)
+d <- inner_join(d, conversion, by = "glottocode") %>%
+    select(name, series_markedness_fullness)
 
 # prune tree to only include tips that are in d$name
 
@@ -35,7 +31,7 @@ tree <- drop.tip(tree, tree$tip.label[!tree$tip.label %in% d$name])
 
 # check for normality
 
-d %>% ggplot(aes(x = series_fullness)) +
+d %>% ggplot(aes(x = series_markedness_fullness)) +
     geom_density()
 
 
@@ -123,7 +119,7 @@ edge_po <- match(po, edges[,2])
 
 ##
 
-Y <- d$series_fullness
+Y <- d$series_markedness_fullness
 
 stan_data <- list()
 stan_data$Y <- Y

@@ -1,0 +1,7 @@
+	labial:+;labiodental:-;coronal:-;lateral:-;strident:0;anterior:0;distributed:0;dorsal:-	labial:+;labiodental:+;coronal:-;lateral:-;strident:0;anterior:0;distributed:0;dorsal:-	labial:-;labiodental:0;coronal:+;lateral:+;strident:-;anterior:+;distributed:-;dorsal:- | labial:-;labiodental:0;coronal:+;lateral:-,+;strident:-;anterior:+;distributed:-;dorsal:-	labial:-;labiodental:0;coronal:+;lateral:-;strident:+;anterior:+;distributed:-;dorsal:- | labial:-;labiodental:0;coronal:+;lateral:-;strident:-,+;anterior:+;distributed:-;dorsal:-	labial:-;labiodental:0;coronal:+;lateral:-;strident:+;anterior:-;distributed:+;dorsal:-	labial:-;labiodental:0;coronal:-;lateral:-;strident:0;anterior:0;distributed:0;dorsal:+	count	markedness_count
+periodicGlottalSource:-;sonorant:-;nasal:-		f	ɬ	s			3/6	0.5809629576256299
+periodicGlottalSource:+;sonorant:-;nasal:-	β	v	ɮ	z	ʒ	ɣ	6/6	1.0
+periodicGlottalSource:+;sonorant:+,-;nasal:+,-	-	ɱv	nɮ	nz			3/5	0.9364795045459046
+periodicGlottalSource:+,-;sonorant:+,-;nasal:+,-	-	ɱf	nɬ	ns		-	3/4	0.9153618059123373
+	1/2	4/4	4/4	4/4	1/4	1/3
+	0.5479002076962644	1.0	1.0	1.0	0.2156430707386324	0.29516743376025634

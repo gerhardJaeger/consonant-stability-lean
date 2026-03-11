@@ -1,0 +1,7 @@
+	labial:+;labiodental:+;coronal:-;strident:0;dorsal:-;round:-	labial:+;labiodental:+,-;coronal:-;strident:0;dorsal:-;round:-,+	labial:-;labiodental:0;coronal:+;strident:+;dorsal:-;round:0 | labial:-;labiodental:0;coronal:+;strident:-,+;dorsal:-;round:0	labial:-,+;labiodental:-;coronal:+;strident:+;dorsal:-;round:+	labial:-,-,+;labiodental:-;coronal:+;strident:-,+;dorsal:-;round:+	labial:+;labiodental:+;coronal:-;strident:0;dorsal:-,+;round:-	labial:-;labiodental:0;coronal:+;strident:+;dorsal:-,+;round:0	count	markedness_count
+periodicGlottalSource:-;sonorant:-;nasal:-	f	fʷ	s	sʷ	-		sʲ	5/6	0.9988831833014116
+periodicGlottalSource:+;sonorant:-;nasal:-	v	vʷ	z		-	vʲ		4/6	0.9747615155044629
+periodicGlottalSource:+;sonorant:+,-;nasal:+,-	ɱv	-	nz	-			-	2/4	0.9924974430109825
+periodicGlottalSource:+,-;sonorant:+,-;nasal:+,-	ɱf	-	ns	-	nsʷ		-	3/4	0.9852028539482488
+	4/4	2/2	4/4	1/2	1/2	1/4	1/2
+	1.0	1.0	1.0	0.5146479141304363	0.6666666666666667	0.425841578583991	0.7817386889036172

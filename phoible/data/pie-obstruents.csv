@@ -1,0 +1,11 @@
+InventoryID,Glottocode,ISO6393,LanguageName,SpecificDialect,GlyphID,Phoneme,Allophones,Marginal,SegmentClass,Source,tone,stress,syllabic,short,long,consonantal,sonorant,continuant,delayedRelease,approximant,tap,trill,nasal,lateral,labial,round,labiodental,coronal,anterior,distributed,strident,dorsal,high,low,front,back,tense,retractedTongueRoot,advancedTongueRoot,periodicGlottalSource,epilaryngealSource,spreadGlottis,constrictedGlottis,fortis,lenis,raisedLarynxEjective,loweredLarynxImplosive,click
+10000,piee0000,pie,Proto-Indo-European,NA,70,p,p,FALSE,consonant,spa,0,-,-,-,-,+,-,-,-,-,-,-,-,-,+,-,-,-,0,0,0,-,0,0,0,0,0,-,-,-,-,-,-,-,-,-,-,-
+10000,piee0000,pie,Proto-Indo-European,NA,74,t,t,FALSE,consonant,spa,0,-,-,-,-,+,-,-,-,-,-,-,-,-,-,0,0,+,+,-,-,-,0,0,0,0,0,-,-,-,-,-,-,-,-,-,-,-
+10000,piee0000,pie,Proto-Indo-European,NA,006B,k,k,FALSE,consonant,spa,0,-,-,-,-,+,-,-,-,-,-,-,-,-,-,0,0,-,0,0,0,+,+,-,-,-,0,-,-,-,-,-,-,-,-,-,-,-
+10000,piee0000,pie,Proto-Indo-European,NA,73,s,s,FALSE,consonant,spa,0,-,-,-,-,+,-,+,+,-,-,-,-,-,-,0,0,+,+,-,+,-,0,0,0,0,0,-,-,-,-,-,-,-,-,-,-,-
+10000,piee0000,pie,Proto-Indo-European,NA,62,b,b,FALSE,consonant,spa,0,-,-,-,-,+,-,-,-,-,-,-,-,-,+,-,-,-,0,0,0,-,0,0,0,0,0,-,-,+,-,-,-,-,-,-,-,-
+10000,piee0000,pie,Proto-Indo-European,NA,64,d,d,FALSE,consonant,spa,0,-,-,-,-,+,-,-,-,-,-,-,-,-,-,0,0,+,+,-,-,-,0,0,0,0,0,-,-,+,-,-,-,-,-,-,-,-
+10000,piee0000,pie,Proto-Indo-European,NA,261,ɡ,ɡ,FALSE,consonant,spa,0,-,-,-,-,+,-,-,-,-,-,-,-,-,-,0,0,-,0,0,0,+,+,-,-,-,0,-,-,+,-,-,-,-,-,-,-,-
+10000,piee0000,pie,Proto-Indo-European,NA,0062+02B1,bʱ,bʱ,FALSE,consonant,ph,0,-,-,-,-,+,-,-,-,-,-,-,-,-,+,-,-,-,0,0,0,-,0,0,0,0,0,-,-,+,-,+,-,-,-,-,-,-
+10000,piee0000,pie,Proto-Indo-European,NA,0064+02B1,dʱ,dʱ,FALSE,consonant,ph,0,-,-,-,-,+,-,-,-,-,-,-,-,-,-,0,0,+,+,-,-,-,0,0,0,0,0,-,-,+,-,+,-,-,-,-,-,-
+10000,piee0000,pie,Proto-Indo-European,NA,0261+02B1,ɡʱ,ɡʱ,FALSE,consonant,ph,0,-,-,-,-,+,-,-,-,-,-,-,-,-,-,0,0,-,0,0,0,+,+,-,-,-,0,-,-,+,-,+,-,-,-,-,-,-

@@ -1,0 +1,5 @@
+	labial:+;coronal:-;anterior:0;distributed:0;high:0;low:0;front:0;back:0	labial:-;coronal:+;anterior:+;distributed:-;high:0;low:0;front:0;back:0	labial:-;coronal:+;anterior:-;distributed:+;high:0;low:0;front:0;back:0	count	markedness_count
+periodicGlottalSource:+	b	d	d̠	3/3	1.0
+periodicGlottalSource:-	p	t		2/3	0.9997560081584717
+	2/2	2/2	1/2
+	1.0	1.0	0.8534213025417605

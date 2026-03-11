@@ -1,0 +1,7 @@
+	labial:+;coronal:-;strident:0;anterior:0;distributed:0;dorsal:-;front:0;round:-	labial:+;coronal:-;strident:0;anterior:0;distributed:0;dorsal:-;front:0;round:-,+	labial:-;coronal:+;strident:-;anterior:+;distributed:-;dorsal:-;front:0;round:0 | labial:-;coronal:+;strident:+;anterior:+;distributed:-;dorsal:-;front:0;round:0	labial:-;coronal:+;strident:+;anterior:-;distributed:+;dorsal:-;front:0;round:0	labial:-,+;coronal:+;strident:+;anterior:-;distributed:+;dorsal:-;front:0;round:+	labial:+;coronal:-;strident:0;anterior:0;distributed:0;dorsal:-,+;front:+;round:-	labial:+;coronal:-;strident:0;anterior:0;distributed:0;dorsal:+;front:-;round:-	labial:-;coronal:-;strident:0;anterior:0;distributed:0;dorsal:+;front:-;round:0	labial:-;coronal:-;strident:0;anterior:0;distributed:0;dorsal:+;front:-,+;round:0	labial:-,+;coronal:-;strident:0;anterior:0;distributed:0;dorsal:+;front:-;round:+	count	markedness_count
+periodicGlottalSource:+;category:affricate|plosive	b	bʷ	d	d̠ʒ			ɡb	ɡ	ɡʲ	ɡʷ	8/10	0.9974275420320274
+periodicGlottalSource:+;category:fricative			z				-				1/9	0.3417070233837741
+periodicGlottalSource:-;category:affricate|plosive	p		t	t̠ʃ	t̠ʃʷ	pʲ	kp	k	kʲ	kʷ	9/10	0.9990791380542281
+periodicGlottalSource:-;category:fricative | periodicGlottalSource:+,-;sonorant:+,-;nasal:+,-;category:fricative			s	ʃ			-				2/9	0.5937379992938167
+	2/4	1/4	4/4	3/4	1/4	1/4	2/2	2/4	2/4	2/4
+	0.7769238096159985	0.3691074735603184	1.0	0.9236936179361749	0.3925929152226382	0.40496714600097067	1.0	0.8208175339725856	0.8351318471338511	0.7468217438153808

@@ -1,0 +1,6 @@
+	labial:+;coronal:-;anterior:0;distributed:0;dorsal:-;front:0;round:-	labial:+;coronal:-;anterior:0;distributed:0;dorsal:-;front:0;round:-,+	labial:-;coronal:+;anterior:+;distributed:-;dorsal:-;front:0;round:0 | labial:-;coronal:+;anterior:+;distributed:+;dorsal:-;front:0;round:0 | labial:-;coronal:+;anterior:+;distributed:+;dorsal:-;front:0;round:0;strident:-	labial:-,+;coronal:+;anterior:+;distributed:-;dorsal:-;front:0;round:+	labial:+;coronal:-;anterior:0;distributed:0;dorsal:-,+;front:+;round:-	labial:-;coronal:+;anterior:+;distributed:-;dorsal:-,+;front:+;round:0	labial:-;coronal:+;anterior:-;distributed:+;dorsal:+;front:+;round:0	labial:-;coronal:-;anterior:0;distributed:0;dorsal:+;front:-;round:0	labial:-;coronal:-;anterior:0;distributed:0;dorsal:+;front:-,+;round:0	labial:-,+;coronal:+;anterior:-;distributed:+;dorsal:+;front:+;round:+	labial:-,+;coronal:-;anterior:0;distributed:0;dorsal:+;front:-;round:+	count	markedness_count
+periodicGlottalSource:+;spreadGlottis:-	b	bʷ	d	dʷ	bʲ	dʲ	ɟ	ɡ	ɡʲ	ɟʷ	ɡʷ	11/11	1.0
+periodicGlottalSource:-;spreadGlottis:-	p	pʷ	t̪	tʷ	pʲ	tʲ	c	k	kʲ		kʷ	10/11	0.9995710207525389
+periodicGlottalSource:-;spreadGlottis:+	pʰ		tʰ	tʷʰ	pʲʰ		cʰ	kʰ		cʷʰ	kʷʰ	8/11	0.9877752132951869
+	3/3	2/3	3/3	3/3	3/3	2/3	3/3	3/3	2/3	2/3	3/3
+	1.0	0.9913058953737295	1.0	1.0	1.0	0.8569519645008487	1.0	1.0	0.8695518681594083	0.0296312924406532	1.0

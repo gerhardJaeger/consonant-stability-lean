@@ -1,0 +1,7 @@
+	labial:+;coronal:-;anterior:0;distributed:0;dorsal:-;front:0;round:-	labial:+;coronal:-;anterior:0;distributed:0;dorsal:-;front:0;round:-,+	labial:-;coronal:+;anterior:+;distributed:-;dorsal:-;front:0;round:0	labial:-,+;coronal:+;anterior:+;distributed:-;dorsal:-;front:0;round:+ | labial:-,-,+;coronal:+;anterior:+;distributed:-;dorsal:-;front:0;round:+	labial:+;coronal:-;anterior:0;distributed:0;dorsal:-,+;front:+;round:-	labial:-;coronal:+;anterior:+;distributed:-;dorsal:-,+;front:+;round:0	labial:-;coronal:+;anterior:-;distributed:+;dorsal:+;front:+;round:0	labial:-;coronal:-;anterior:0;distributed:0;dorsal:+;front:-;round:0	labial:-;coronal:-;anterior:0;distributed:0;dorsal:+;front:-,+;round:0	labial:-,+;coronal:+;anterior:-;distributed:+;dorsal:+;front:+;round:+	labial:-,+;coronal:-;anterior:0;distributed:0;dorsal:+;front:-;round:+ | labial:-,-,+;coronal:-;anterior:0;distributed:0;dorsal:+;front:-;round:+	count	markedness_count
+periodicGlottalSource:-;sonorant:-;nasal:-			t	tʷ		tʲ	c//cʲ	k	kʲ	cʷ	kʷ	8/11	0.7467070934014686
+periodicGlottalSource:+;sonorant:-;nasal:-	b	bʷ	d		bʲ		ɟ//ɟʲ	ɡ	ɡʲ	ɟʷ	ɡʷ	9/11	0.993759922183181
+periodicGlottalSource:+;sonorant:+,-;nasal:+,-	mb		nd	ndʷ			ɲɟ	ŋɡ		-	ŋɡʷ	6/10	0.9653995450554267
+periodicGlottalSource:+,-;sonorant:+,-;nasal:+,-			nt	ntʷ		-	ɲc//ɲcʲ	ŋk		-		4/9	0.7322575989612427
+	2/4	1/4	4/4	3/4	1/4	1/3	4/4	4/4	2/4	2/2	3/4
+	0.3520922265657353	0.4346365716201538	1.0	0.8127501726058973	0.2329023874551301	0.6485150070815376	1.0	1.0	0.9920607449780058	1.0	0.9995714515402652

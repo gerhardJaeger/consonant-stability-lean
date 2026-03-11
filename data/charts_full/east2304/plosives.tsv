@@ -1,0 +1,6 @@
+	labial:+;coronal:-;anterior:0;dorsal:-	labial:-;coronal:+;anterior:+;dorsal:-	labial:-;coronal:+;anterior:-;dorsal:-	labial:-;coronal:-;anterior:0;dorsal:+	count	markedness_count
+periodicGlottalSource:+;spreadGlottis:-	b	d	ɖ	ɡ	4/4	1.0
+periodicGlottalSource:+;spreadGlottis:+	b̤	d̤	ɖ̤	ɡ̤	4/4	1.0
+periodicGlottalSource:-;spreadGlottis:+	pʰ	tʰ	ʈʰ	kʰ	4/4	1.0
+	3/3	3/3	3/3	3/3
+	1.0	1.0	1.0	1.0

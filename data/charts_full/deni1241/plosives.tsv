@@ -1,0 +1,6 @@
+	labial:+;coronal:-;dorsal:-	labial:-;coronal:+;dorsal:-	labial:-;coronal:-;dorsal:+	count	markedness_count
+periodicGlottalSource:+;spreadGlottis:-;loweredLarynxImplosive:+	ɓ	ɗ		2/3	0.8105931977093616
+periodicGlottalSource:-;spreadGlottis:-;loweredLarynxImplosive:-	p	t	k	3/3	1.0
+periodicGlottalSource:-;spreadGlottis:+;loweredLarynxImplosive:-	pʰ	tʰ	kʰ	3/3	1.0
+	3/3	3/3	2/3
+	1.0	1.0	0.9835959565554339

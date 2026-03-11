@@ -1,0 +1,7 @@
+	labial:+,-;coronal:-,+;lateral:-;strident:+;anterior:+;distributed:-;dorsal:- | labial:+,-;coronal:-,+;lateral:-;strident:+;anterior:-;distributed:+;dorsal:-	labial:-;coronal:+;lateral:-,+;strident:-;anterior:+;distributed:-;dorsal:-	labial:-;coronal:+;lateral:-;strident:+;anterior:+;distributed:-;dorsal:-	labial:-;coronal:+;lateral:-;strident:+;anterior:-;distributed:+;dorsal:-	labial:-;coronal:-;lateral:-;strident:0;anterior:0;distributed:0;dorsal:+	count	markedness_count
+periodicGlottalSource:+;spreadGlottis:-;constrictedGlottis:-;raisedLarynxEjective:-	bz		dz			2/5	0.3171245732255463
+periodicGlottalSource:-;spreadGlottis:-;constrictedGlottis:-;raisedLarynxEjective:-				t̠ʃ		1/5	0.5110010733905259
+periodicGlottalSource:-;spreadGlottis:+;constrictedGlottis:-;raisedLarynxEjective:- | periodicGlottalSource:-;spreadGlottis:-,+;constrictedGlottis:-;raisedLarynxEjective:-	pʃʰ	tɬʰ		t̠ʃʰ	kxʰ	4/5	0.5255166163741034
+periodicGlottalSource:-;spreadGlottis:-;constrictedGlottis:+;raisedLarynxEjective:+ | periodicGlottalSource:-;spreadGlottis:-;constrictedGlottis:-,+;raisedLarynxEjective:-,+	pʃʼ	tɬʼ	tsʼ	t̠ʃʼ		4/5	0.9424350908363419
+	3/4	2/4	2/4	3/4	1/4
+	0.5331429069818148	0.5371516888544553	0.35491844280046203	0.76386021363962	0.12695495992870068

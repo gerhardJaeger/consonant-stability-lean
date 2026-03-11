@@ -1,0 +1,7 @@
+	labial:+;coronal:-;anterior:0;distributed:0;dorsal:-;front:0;round:-	labial:-;coronal:+;anterior:+;distributed:-;dorsal:-;front:0;round:0 | labial:-;coronal:+;anterior:+;distributed:+;dorsal:-;front:0;round:0;strident:- | labial:-;coronal:+;anterior:-;distributed:-;dorsal:-;front:0;round:0;strident:-;lateral:-	labial:-;coronal:+;anterior:-;distributed:+;dorsal:+;front:+;round:0	labial:-;coronal:-;anterior:0;distributed:0;dorsal:+;front:-;round:0	labial:-,+;coronal:-;anterior:0;distributed:0;dorsal:+;front:-;round:+ | labial:-,-,+;coronal:-;anterior:0;distributed:0;dorsal:+;front:-;round:+ | labial:-,+;coronal:+;anterior:-;distributed:+;dorsal:+;front:+;round:+;strident:- | labial:-,-,+;coronal:+;anterior:-;distributed:+;dorsal:+;front:+;round:+;strident:-	labial:0,-,+;coronal:-;anterior:0;distributed:0;dorsal:+;front:-;round:+	count	markedness_count
+periodicGlottalSource:-;spreadGlottis:+,-;category:plosive		ʰt	ʰc	ʰk	-	ʰkʷ	4/5	0.9040318446869823
+periodicGlottalSource:+;spreadGlottis:-;category:plosive	b	d	ɟ				3/6	0.71596477212125
+periodicGlottalSource:+;spreadGlottis:+,-;category:plosive	ʱb	ʱd	ʱɟ	-	-	-	3/3	1.0
+periodicGlottalSource:-;spreadGlottis:-;category:plosive | periodicGlottalSource:+,-;spreadGlottis:-;sonorant:+,-;nasal:+,-;category:plosive		t	c	k	kʷ		4/6	0.7466713471819305
+	2/4	4/4	4/4	2/3	1/2	1/3
+	0.390011685606496	1.0	1.0	0.7126018771382889	0.7990666606744578	0.5352899303023696

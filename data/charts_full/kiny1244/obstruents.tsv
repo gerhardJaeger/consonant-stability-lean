@@ -1,0 +1,11 @@
+	labial:+;labiodental:-;coronal:-;strident:0;anterior:0;distributed:0;dorsal:-;front:0;round:-	labial:+;labiodental:+;coronal:-;strident:0;anterior:0;distributed:0;dorsal:-;front:0;round:-	labial:-;labiodental:0;coronal:+;strident:-;anterior:+;distributed:-;dorsal:-;front:0;round:0 | labial:-;labiodental:0;coronal:+;strident:+;anterior:+;distributed:-;dorsal:-;front:0;round:0	labial:-;labiodental:0;coronal:-;strident:0;anterior:0;distributed:0;dorsal:+;front:-;round:0	labial:-,+;labiodental:-;coronal:-;strident:0;anterior:0;distributed:0;dorsal:+;front:-;round:+	labial:-;labiodental:0;coronal:-;strident:0;anterior:0;distributed:0;dorsal:+;front:-,+;round:0 | labial:-;labiodental:0;coronal:+;strident:+;anterior:-;distributed:+;dorsal:-;front:0;round:0 | labial:-;labiodental:0;coronal:+;strident:+;anterior:-;distributed:+;dorsal:-;front:0;round:0;high:0;low:0;back:0	count	markedness_count
+periodicGlottalSource:+;spreadGlottis:-;loweredLarynxImplosive:-;category:plosive	b	-	d	ɡ	ɡʷ	ɡʲ	5/5	1.0
+periodicGlottalSource:+;spreadGlottis:-;loweredLarynxImplosive:+;category:plosive		-	ɗ		-		1/4	0.39664938758263957
+periodicGlottalSource:+;category:affricate			dz			d̠ʒ	2/6	0.9967724238945193
+periodicGlottalSource:+;category:fricative	β	v	z			ʒ	4/6	0.7948841735253
+periodicGlottalSource:-;spreadGlottis:-;loweredLarynxImplosive:-;category:plosive | periodicGlottalSource:+,-;spreadGlottis:-;loweredLarynxImplosive:-;sonorant:+,-;nasal:+,-;category:plosive	p	-	t	k	kʷ	kʲ	5/5	1.0
+periodicGlottalSource:-;category:fricative | periodicGlottalSource:+,-;sonorant:+,-;nasal:+,-;category:fricative		f	s			ʃ	3/6	0.7960245655537933
+periodicGlottalSource:-;spreadGlottis:+;loweredLarynxImplosive:-;category:plosive | periodicGlottalSource:-;spreadGlottis:-,+;loweredLarynxImplosive:-;category:plosive | periodicGlottalSource:+,-;spreadGlottis:+;loweredLarynxImplosive:-;sonorant:+,-;nasal:+,-;category:plosive | periodicGlottalSource:+,-;spreadGlottis:-,+;loweredLarynxImplosive:-;sonorant:+,-;nasal:+,-;category:plosive	pʰ	-		kʰ			2/5	0.6030959346068493
+periodicGlottalSource:-;category:affricate | periodicGlottalSource:+,-;sonorant:+,-;nasal:+,-;category:affricate		pf	ts			t̠ʃ	3/6	0.9796721926533392
+	4/8	3/4	7/8	3/8	2/7	6/8
+	0.9330421393712679	0.998109494308453	0.943856665880134	0.8037047697329641	0.6245137722018118	0.9783521392613631

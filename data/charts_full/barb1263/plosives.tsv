@@ -1,0 +1,6 @@
+	labial:+;coronal:-;dorsal:-;high:0;back:0	labial:-;coronal:+;dorsal:-;high:0;back:0	labial:-;coronal:-;dorsal:+;high:+;back:-	labial:-;coronal:-;dorsal:+;high:-;back:+	count	markedness_count
+spreadGlottis:-;constrictedGlottis:-;raisedLarynxEjective:-	p	t	k	q	4/4	1.0
+spreadGlottis:+;constrictedGlottis:-;raisedLarynxEjective:-	pʰ	tʰ	kʰ	qʰ	4/4	1.0
+spreadGlottis:-;constrictedGlottis:+;raisedLarynxEjective:+	pʼ	tʼ	kʼ	qʼ	4/4	1.0
+	3/3	3/3	3/3	3/3
+	1.0	1.0	1.0	1.0

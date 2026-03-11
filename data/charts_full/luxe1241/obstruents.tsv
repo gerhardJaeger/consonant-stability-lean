@@ -1,0 +1,7 @@
+	labial:+;labiodental:-;coronal:-;strident:0;anterior:0;distributed:0;dorsal:-;high:0;back:0 | labial:+;labiodental:+;coronal:-;strident:0;anterior:0;distributed:0;dorsal:-;high:0;back:0	labial:-;labiodental:0;coronal:+;strident:-;anterior:+;distributed:-;dorsal:-;high:0;back:0	labial:-;labiodental:0;coronal:+;strident:+;anterior:+;distributed:-;dorsal:-;high:0;back:0	labial:-;labiodental:0;coronal:+;strident:+;anterior:-;distributed:+;dorsal:-;high:0;back:0	labial:-;labiodental:0;coronal:-;strident:0;anterior:0;distributed:0;dorsal:+;high:+;back:- | labial:-;labiodental:0;coronal:-;strident:0;anterior:0;distributed:0;dorsal:+;high:-;back:+	count	markedness_count
+periodicGlottalSource:+;category:fricative	v		z	ʒ	ʁ	4/5	0.924616888552083
+spreadGlottis:+;category:affricate|plosive	pʰ	tʰ			kʰ	3/5	0.8005016713853615
+periodicGlottalSource:-;category:fricative | periodicGlottalSource:+,-;sonorant:+,-;nasal:+,-;category:fricative	f		s	ʃ	χ	4/5	0.8988828031064121
+spreadGlottis:-; ͉:+;category:plosive | spreadGlottis:-; ͉:+;category:affricate | spreadGlottis:-; ͉:-;category:plosive | spreadGlottis:-; ͉:-;category:affricate	p͉	t͉	ts	t̠ʃ	k͉	5/5	1.0
+	4/4	2/4	3/4	3/4	4/4
+	1.0	0.9034423347639959	0.9265925339378784	0.9155475058636333	1.0

@@ -1,0 +1,5 @@
+	labial:+;coronal:-;strident:0;anterior:0;distributed:0;dorsal:-	labial:-;coronal:+;strident:-;anterior:+;distributed:-;dorsal:-	labial:-;coronal:+;strident:+;anterior:-;distributed:+;dorsal:-	labial:-;coronal:-;strident:0;anterior:0;distributed:0;dorsal:+	count	markedness_count
+spreadGlottis:-;category:affricate|plosive	p	t	t̠ʃ	k	4/4	1.0
+spreadGlottis:+;category:affricate|plosive				kʰ	1/4	0.33739421694407606
+	1/2	1/2	1/2	2/2
+	0.8875654753715783	0.8848227131072162	0.8563047804104563	1.0

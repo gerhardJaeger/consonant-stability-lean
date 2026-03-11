@@ -1,0 +1,6 @@
+	labiodental:0;strident:+;anterior:+;distributed:-;dorsal:-;round:0	labiodental:0;strident:+;anterior:-;distributed:+;dorsal:-;round:0	labiodental:0;strident:+;anterior:-;distributed:-;dorsal:-;round:0	labiodental:0;strident:-,+;anterior:+;distributed:-,+;dorsal:-,+;round:0	count	markedness_count
+periodicGlottalSource:+;spreadGlottis:-	dz	d̠ʒ	ɖʐ	dʑ	4/4	1.0
+periodicGlottalSource:-;spreadGlottis:-	ts	t̠ʃ	ʈʂ	tɕ	4/4	1.0
+periodicGlottalSource:-;spreadGlottis:+ | periodicGlottalSource:-;spreadGlottis:-,+	tsʰ	t̠ʃʰ	ʈʂʰ	tɕʰ	4/4	1.0
+	3/3	3/3	3/3	3/3
+	1.0	1.0	1.0	1.0

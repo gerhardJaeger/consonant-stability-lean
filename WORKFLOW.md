@@ -6,37 +6,38 @@ This document describes the order in which scripts are to be executed to reprodu
 
 ## 0. Environment setup
 
-Install the Python dependencies:
-
-```bash
-pip install -r scripts/requirements.txt
-```
-
-Install the R dependencies (cmdstanr, tidyverse, ape, posterior, loo, BBMV, ggdist, geiger):
+Install the R dependencies (cmdstanr, tidyverse, ape, posterior, loo, ggdist, geiger, treeio, phangorn):
 
 ```r
-install.packages(c("tidyverse", "ape", "posterior", "loo", "ggdist", "geiger", "cmdstanr"))
-# BBMV is installed from GitHub:
-devtools::install_github("fcboucher/BBMV")
+install.packages(c("tidyverse", "ape", "posterior", "loo", "ggdist", "geiger", "cmdstanr", "treeio", "phangorn"))
 ```
 
-The file `consonant_inventories.yml` specifies a conda environment with all Python dependencies.
+The file `consonant_inventories.yml` specifies a mamba environment with all Python dependencies:
+
+```bash
+mamba env create -f consonant_inventories.yml
+mamba activate consonant_inventories
+```
 
 ---
 
 ## 1. Data preparation
 
-**Input:** Raw PHOIBLE data (download separately from https://phoible.org/; place `phoible.csv` in `phoible/data/`).
+**Input:** Raw PHOIBLE data (`phoible/data/phoible.csv`), included in this repository. Retrieved from https://github.com/phoible/dev (commit `7030ae02`, 2023-04-16) on 2024-04-19. Glottolog language metadata (`data/languages.csv`) is also included.
 
 ```bash
-python scripts/process-inventories.py
+python scripts/process-inventories.py -l data/languages.csv
 ```
 Selects one inventory per language and computes markedness-weighted segment counts. Writes `processed/inventories.csv` and `processed/segments.csv`.
 
 ```bash
-python scripts/generate-series.py
+python scripts/generate-series.py \
+  -i processed/inventories.csv \
+  -s processed/segments.csv \
+  -t data/transformation_rules.tsv \
+  -o data/
 ```
-Generates phonological charts for each language and computes obstruent series counts. Writes `charts/charts_full/` and `data/series_counts.tsv`.
+Generates phonological charts for each language and computes obstruent series counts. Writes `data/charts_full/` and `data/series_counts.tsv`.
 
 ---
 
@@ -54,13 +55,23 @@ Takes the global language tree (`data/tree_pruned.nex`) and replaces its family-
 ```r
 Rscript R/OU_stan.r
 ```
-Fits the Bayesian Ornstein–Uhlenbeck model (`stan/OU.stan` and `stan/OU_logtransformed.stan`) to the global tree for all four variables (plosive, fricative, affricate, series). Writes fitted model objects to `data/family_models/`.
-
-Model comparison between the log-transformed and identity-transformed versions is performed here; the preferred transformation for each variable is selected based on LOOIC.
+Fits the Bayesian Ornstein–Uhlenbeck model (`stan/OU.stan` and `stan/OU_logtransformed.stan`) to the global tree for all four variables (plosive, fricative, affricate, series). Selects the preferred transformation per variable via LOOIC. Also:
+- Exports per-node posterior ASR samples to `data/asr/asr_{variable}.csv`
+- Generates `figures/halflive.svg` (posterior distributions of t½)
+- Generates `figures/landscapes.svg` (inferred equilibrium distributions)
 
 ---
 
-## 4. Sensitivity analysis
+## 4. Ancestral state reconstruction (world and family trees)
+
+```r
+Rscript R/familywise_asr.r
+```
+Reads the ASR sample CSVs from `data/asr/`, computes per-node posterior summaries (mean, 2.5th–97.5th percentile), and writes annotated NEXUS files for the world tree and for each of the 8 family subtrees to `data/asr/`.
+
+---
+
+## 5. Sensitivity analysis
 
 ```bash
 bash R/run_sensitivity_analysis.sh
@@ -70,11 +81,11 @@ Calls `R/OU_sensitivity_analysis.r` once per variable and model specification (1
 ```r
 Rscript R/evaluate_sensitivity_analysis.r
 ```
-Reads the per-model outputs and produces the summary table `sensitivity_analysis/sensitivity_analysis_results.csv`.
+Reads the per-model outputs and produces the summary table `sensitivity_analysis_results.csv`.
 
 ---
 
-## 5. Simulation study
+## 6. Simulation study
 
 ```r
 Rscript R/simulated_data.R
@@ -89,47 +100,28 @@ Calls `R/OU_stan_simulations.r` for each simulated dataset, fitting the Bayesian
 ```r
 Rscript R/evaluate_simulations.r
 ```
-Reads the fitted summaries and produces parameter-recovery statistics.
+Reads the fitted summaries and produces the parameter-recovery figure `figures/simulation_recovery.svg`.
 
 ---
 
-## 6. BBMV landscape analysis
-
-```r
-Rscript R/BBMV_consonants_forest.r
-```
-Fits the Fokker–Planck–Kolmogorov (FPK/BBMV) model to the series variable on the global tree to estimate the fitness landscape (equilibrium distribution).
-
----
-
-## 7. Family-level reconstructions
-
-Run each family script independently. Each reads the family-specific tree from `data/families/<family>/phylogeny/` and fits the OU model using `R/bayesian_fit.r`.
-
-```r
-Rscript R/families/Indo-European_OU.r
-Rscript R/families/Austronesian_OU.r
-Rscript R/families/Pama-Nyungan_OU.r
-Rscript R/families/Sino-Tibetan_OU.r
-Rscript R/families/Tupi-Guarani_OU.r
-Rscript R/families/Turkic_OU.r
-Rscript R/families/Uralic_OU.r
-```
-
----
-
-## 8. Grambank comparison
-
-```r
-Rscript R/grambank_rates.r
-```
-Fits discrete-character ARD models to binarized Grambank features and to the binarized obstruent series variables. Produces characteristic-time estimates for comparison across typological features. Requires Grambank data (download separately from https://grambank.clld.org/).
-
----
-
-## 9. Figure generation
+## 7. Figure generation
 
 ```r
 Rscript R/code_for_figures.r
 ```
-Reads fitted model outputs and produces all publication figures. Writes PDFs and SVGs to `figures/`.
+Reads `data/data_pruned.csv` and produces the distribution and geographic map figures. Writes PDFs and SVGs to `figures/`.
+
+```r
+Rscript R/plot_sensitivity_analysis.r
+```
+Reads `sensitivity_analysis_results.csv` and writes `figures/sensitivity_analysis.pdf/.svg`.
+
+```r
+Rscript R/plot_simulations.r
+```
+Reads `data/simulations_fitted/` (OU datasets) and writes `figures/simulation_recovery.pdf/.svg`.
+
+```r
+Rscript R/plot_equilibrium_recovery.r
+```
+Reads `data/simulations_fitted/` (OU and BBM datasets) and writes `figures/equilibrium_recovery.pdf/.svg`.

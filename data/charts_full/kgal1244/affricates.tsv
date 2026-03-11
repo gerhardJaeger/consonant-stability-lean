@@ -1,0 +1,6 @@
+	labial:-;anterior:+;distributed:-;high:0;low:0;front:0;back:0	labial:-;anterior:-;distributed:+;high:0;low:0;front:0;back:0	labial:-,+;anterior:+;distributed:-;high:0;low:0;front:0;back:0	labial:-,+;anterior:-;distributed:+;high:0;low:0;front:0;back:0	count	markedness_count
+periodicGlottalSource:+;spreadGlottis:-		d̠ʒ			1/4	0.6061990775269153
+periodicGlottalSource:-;spreadGlottis:-	ts	t̠ʃ	tsʷ	t̠ʃʷ	4/4	1.0
+periodicGlottalSource:-;spreadGlottis:+	tsʰ	t̠ʃʰ	tsʷʰ	t̠ʃʷʰ	4/4	1.0
+	2/3	3/3	2/3	2/3
+	0.840054901729932	1.0	0.9817754066195915	0.7137115433530467

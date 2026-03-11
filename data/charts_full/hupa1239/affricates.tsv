@@ -1,0 +1,6 @@
+	labial:-;lateral:-;strident:+;anterior:+;distributed:+;high:0;low:0;front:0;back:0	labial:-;lateral:-,+;strident:-;anterior:+;distributed:-;high:0;low:0;front:0;back:0	labial:-;lateral:-;strident:+;anterior:-;distributed:+;high:0;low:0;front:0;back:0	labial:-,+;lateral:-;strident:+;anterior:-;distributed:+;high:0;low:0;front:0;back:0	count	markedness_count
+spreadGlottis:-;constrictedGlottis:-;raisedLarynxEjective:-	t̻s̻		t̠ʃ		2/4	0.9686061951501211
+spreadGlottis:-;constrictedGlottis:+;raisedLarynxEjective:+ | spreadGlottis:-;constrictedGlottis:-,+;raisedLarynxEjective:-,+	t̻s̻ʼ	tɬʼ	t̠ʃʼ	t̠ʃʷʼ	4/4	1.0
+spreadGlottis:+;constrictedGlottis:-;raisedLarynxEjective:-	t̻s̻ʰ			t̠ʃʷʰ	2/4	0.5598220717165545
+	3/3	1/3	2/3	2/3
+	1.0	0.39633702048536823	0.8686157828790464	0.757842099732545

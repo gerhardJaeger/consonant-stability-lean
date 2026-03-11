@@ -1,0 +1,6 @@
+	labial:+;coronal:-;strident:0;dorsal:- | labial:+;coronal:-;strident:0;dorsal:-,+;front:-;round:- | labial:+;coronal:-;strident:0;dorsal:-,-,+;front:-;round:-	labial:-;coronal:+;strident:-;dorsal:- | labial:-;coronal:+;strident:+;dorsal:- | labial:-;coronal:+;strident:-,+;dorsal:- | labial:-;coronal:+;strident:+;dorsal:-;distributed:- | labial:-;coronal:+;strident:+;dorsal:-;distributed:+ | labial:-;coronal:+;strident:+;dorsal:-;anterior:+;distributed:+	labial:-;coronal:-;strident:0;dorsal:+ | labial:-;coronal:+;strident:+;dorsal:+;anterior:+;distributed:+;front:+ | labial:-;coronal:+;strident:-;dorsal:+;anterior:-;distributed:+;front:+ | labial:-;coronal:+;strident:+;dorsal:-,+;anterior:-;distributed:+;high:+;low:-;front:+;back:-	count	markedness_count
+periodicGlottalSource:+;category:plosive	b	d	ɡ	3/3	1.0
+periodicGlottalSource:-;category:plosive | periodicGlottalSource:+,-;sonorant:+,-;nasal:+,-;category:plosive		t	k	2/3	0.7407391023801491
+periodicGlottalSource:-;spreadGlottis:-;constrictedGlottis:-;raisedLarynxEjective:-;loweredLarynxImplosive:-;sonorant:-;nasal:-;fortis:-;category:fricative	ɸ	s		2/3	0.8708878021009361
+	2/3	3/3	2/3
+	0.45527986708973356	1.0	0.8666930494111134

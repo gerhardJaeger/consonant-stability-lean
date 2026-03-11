@@ -1,0 +1,7 @@
+	labial:+;coronal:-;strident:0;anterior:0;dorsal:- | labial:+;coronal:-;strident:0;anterior:0;dorsal:-,+;front:-;round:- | labial:+;coronal:-;strident:0;anterior:0;dorsal:-,-,+;front:-;round:-	labial:-;coronal:+;strident:-;anterior:+;dorsal:- | labial:-;coronal:+;strident:+;anterior:+;dorsal:- | labial:-;coronal:+;strident:-,+;anterior:+;dorsal:- | labial:-;coronal:+;strident:+;anterior:-;dorsal:-;distributed:- | labial:-;coronal:+;strident:+;anterior:-;dorsal:-;distributed:+ | labial:-;coronal:+;strident:+;anterior:+;dorsal:-;distributed:- | labial:-;coronal:+;strident:+;anterior:+;dorsal:-;distributed:+ | labial:-;coronal:+;strident:-;anterior:-;dorsal:- | labial:-;coronal:+;strident:-;anterior:-;dorsal:-;lateral:-;distributed:-	labial:-;coronal:-;strident:0;anterior:0;dorsal:+ | labial:-;coronal:+;strident:+;anterior:+;dorsal:+;distributed:+;front:+ | labial:-;coronal:+;strident:-;anterior:-;dorsal:+;distributed:+;front:+ | labial:-;coronal:+;strident:+;anterior:-;dorsal:-,+;distributed:+;high:+;low:-;front:+;back:-	count	markedness_count
+periodicGlottalSource:+;category:plosive		ɖ	ɡ	2/3	0.6930690810403726
+periodicGlottalSource:-;category:plosive | periodicGlottalSource:+,-;sonorant:+,-;nasal:+,-;category:plosive	p	t	k	3/3	1.0
+periodicGlottalSource:+;category:fricative		z		1/3	0.588904212717123
+periodicGlottalSource:-;category:fricative | periodicGlottalSource:+,-;sonorant:+,-;nasal:+,-;category:fricative		s		1/3	0.7169124825035191
+	1/4	4/4	2/4
+	0.5022153943052073	1.0	0.8185257398988781

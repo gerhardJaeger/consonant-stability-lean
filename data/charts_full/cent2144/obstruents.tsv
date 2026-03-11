@@ -1,0 +1,12 @@
+	labial:+;coronal:-;strident:0;anterior:0;distributed:0;dorsal:-;round:-	labial:-;coronal:+;strident:-;anterior:+;distributed:-;dorsal:-;round:0	labial:-;coronal:+;strident:+;anterior:+;distributed:-;dorsal:-;round:0	labial:-;coronal:+;strident:+;anterior:-;distributed:+;dorsal:-;round:0	labial:-;coronal:-;strident:0;anterior:0;distributed:0;dorsal:+;round:0	labial:-,+;coronal:-;strident:0;anterior:0;distributed:0;dorsal:+;round:+	count	markedness_count
+periodicGlottalSource:+;spreadGlottis:-;constrictedGlottis:-;raisedLarynxEjective:-;loweredLarynxImplosive:-;category:affricate|plosive					ɡ	ɡʷ	2/6	0.3313900351594277
+periodicGlottalSource:+;spreadGlottis:-;constrictedGlottis:-;raisedLarynxEjective:-;loweredLarynxImplosive:+;category:affricate|plosive	ɓ	ɗ	-	-		-	2/3	0.8035736392716092
+periodicGlottalSource:-;spreadGlottis:-;constrictedGlottis:+;raisedLarynxEjective:+;category:fricative			sʼ				1/6	0.33915887186173965
+periodicGlottalSource:-;spreadGlottis:+;constrictedGlottis:-;raisedLarynxEjective:-;category:fricative		-	sʰ			-	1/4	0.8794131416068168
+periodicGlottalSource:+;spreadGlottis:-;constrictedGlottis:-;raisedLarynxEjective:-;category:fricative			z	ʒ			2/6	0.3944694795785428
+periodicGlottalSource:-;spreadGlottis:-;constrictedGlottis:-;raisedLarynxEjective:-;loweredLarynxImplosive:-;category:affricate|plosive	p	t	ts	t̠ʃ	k	kʷ	6/6	1.0
+periodicGlottalSource:-;spreadGlottis:-;constrictedGlottis:-;raisedLarynxEjective:-;category:fricative | periodicGlottalSource:+,-;spreadGlottis:-;constrictedGlottis:-;raisedLarynxEjective:-;sonorant:+,-;nasal:+,-;category:fricative			s	ʃ			2/6	0.49681593329971296
+periodicGlottalSource:-;spreadGlottis:+;constrictedGlottis:-;raisedLarynxEjective:-;loweredLarynxImplosive:-;category:affricate|plosive	pʰ	tʰ	tsʰ	t̠ʃʰ	kʰ	kʷʰ	6/6	1.0
+periodicGlottalSource:-;spreadGlottis:-;constrictedGlottis:+;raisedLarynxEjective:+;loweredLarynxImplosive:-;category:affricate|plosive		tʼ	tsʼ	t̠ʃʼ	kʼ	kʷʼ	5/6	0.854588837560785
+	3/9	4/8	7/8	5/8	4/9	4/7
+	0.4771732743802207	0.673138826712766	0.9390545615641606	0.8434904602504864	0.8101338116065279	0.7347062645561582

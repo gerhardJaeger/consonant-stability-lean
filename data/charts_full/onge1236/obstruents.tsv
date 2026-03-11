@@ -1,0 +1,5 @@
+	labial:+;coronal:-;anterior:0;distributed:0;dorsal:-;front:0	labial:-;coronal:+;anterior:+;distributed:-;dorsal:-;front:0	labial:-;coronal:+;anterior:-;distributed:+;dorsal:+;front:+	labial:-;coronal:-;anterior:0;distributed:0;dorsal:+;front:-	count	markedness_count
+periodicGlottalSource:+;category:affricate|plosive	b	d	ɟʝ	ɡ	4/4	1.0
+periodicGlottalSource:-;category:affricate|plosive		t	cç	k	3/4	0.7872660311146235
+	1/2	2/2	2/2	2/2
+	0.3530274484135095	1.0	1.0	1.0

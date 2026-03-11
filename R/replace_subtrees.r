@@ -3,51 +3,51 @@ library(ape)
 library(phytools)
 
 
-d <- read_csv("../data/data_pruned.csv")
-tree <- read.nexus("../data/tree_pruned.nex")
+d <- read_csv("data/data_pruned.csv")
+tree <- read.nexus("data/tree_pruned.nex")
 
 
-ie_tree <- read.nexus("../families/Indo-European/phylogeny/heggartyetal2023.tree")
-ie_conversion <- read_csv("../families/Indo-European/phylogeny/IE_conversion.csv") %>%
+ie_tree <- read.nexus("data/families/Indo-European/phylogeny/heggartyetal2023.tree")
+ie_conversion <- read_csv("data/families/Indo-European/phylogeny/IE_conversion.csv") %>%
     distinct(glottocode, .keep_all = TRUE) %>%
     filter(glottocode %in% d$glottocode)
 
 
-an_tree <- read.nexus("../families/Austronesian/phylogeny/grayetal2009.summary.trees")
-an_conversion <- read_csv("../families/Austronesian/phylogeny/austronesian_conversion.csv") 
+an_tree <- read.nexus("data/families/Austronesian/phylogeny/grayetal2009.summary.trees")
+an_conversion <- read_csv("data/families/Austronesian/phylogeny/austronesian_conversion.csv")
 
 
-bantu_tree <- read.nexus("../families/Bantu/phylogeny/ctmc4g-asc.ucln.yule.ba-sp.tree")
+bantu_tree <- read.nexus("data/families/Bantu/phylogeny/ctmc4g-asc.ucln.yule.ba-sp.tree")
 bantu_tree$edge.length <- bantu_tree$edge.length / 1000
-bantu_conversion <- read_csv("../families/Bantu/phylogeny/Bantu_Glottocodes_Koile.csv")
+bantu_conversion <- read_csv("data/families/Bantu/phylogeny/Bantu_Glottocodes_Koile.csv")
 
 
-pn_tree <- read.nexus("../families//Pama-Nyungan/phylogeny/bouckaertetal2018.txt")
+pn_tree <- read.nexus("data/families/Pama-Nyungan/phylogeny/bouckaertetal2018.txt")
 pn_tree$edge.length <- pn_tree$edge.length / 1000
-pn_conversion <- read_csv("../families/Pama-Nyungan/phylogeny/PN_conversion.csv")
+pn_conversion <- read_csv("data/families/Pama-Nyungan/phylogeny/PN_conversion.csv")
 
-st_tree <- read.nexus("../families/Sino-Tibetan/phylogeny/Zhangetal2019.MCC.tree")
+st_tree <- read.nexus("data/families/Sino-Tibetan/phylogeny/Zhangetal2019.MCC.tree")
 st_tree$edge.length <- st_tree$edge.length / 1000
-st_conversion <- read_csv("../families/Sino-Tibetan/phylogeny/Zhang_ST_conversion.csv")
+st_conversion <- read_csv("data/families/Sino-Tibetan/phylogeny/Zhang_ST_conversion.csv")
 
 
-tg_tree <- read.nexus("../families/Tupi-Guarani/phylogeny/gerardi2023.full.relaxed.mcc.nex")
+tg_tree <- read.nexus("data/families/Tupi-Guarani/phylogeny/gerardi2023.full.relaxed.mcc.nex")
 tg_tree$edge.length <- tg_tree$edge.length / 1000
-tg_conversion <- read_csv("../families/Tupi-Guarani/phylogeny/TG_conversion.csv")
+tg_conversion <- read_csv("data/families/Tupi-Guarani/phylogeny/TG_conversion.csv")
 
-turkic_tree <- read.nexus("../families/Turkic/phylogeny/savelyevetal2020_turkic_AnnotatedTree.trees")
-turkic_conversion <- read_csv("../families/Turkic/phylogeny/Turkic_conversion.csv")
+turkic_tree <- read.nexus("data/families/Turkic/phylogeny/savelyevetal2020_turkic_AnnotatedTree.trees")
+turkic_conversion <- read_csv("data/families/Turkic/phylogeny/Turkic_conversion.csv")
 
 
-uralic_tree <- read.nexus("../families/Uralic/phylogeny/uralic-no_constraint.mcc.nex")
+uralic_tree <- read.nexus("data/families/Uralic/phylogeny/uralic-no_constraint.mcc.nex")
 uralic_tree$edge.length <- uralic_tree$edge.length / 1000
-uralic_conversion <- read_csv("../families/Uralic/phylogeny/uralic_conversion.csv")
+uralic_conversion <- read_csv("data/families/Uralic/phylogeny/uralic_conversion.csv")
 
 ##
 
-ua_tree <- read.nexus("../families/Uto-Aztecan/phylogeny/greenhill2023-covarion-relaxed.mcct.trees")
+ua_tree <- read.nexus("data/families/Uto-Aztecan/phylogeny/greenhill2023-covarion-relaxed.mcct.trees")
 ua_tree$edge.length <- ua_tree$edge.length / 1000
-ua_conversion <- read_csv("../families/Uto-Aztecan/phylogeny/UA_conversion.csv") %>%
+ua_conversion <- read_csv("data/families/Uto-Aztecan/phylogeny/UA_conversion.csv") %>%
     filter(glottocode != "kiow1266" )
 
 
@@ -102,5 +102,5 @@ tree <- tree %>%
 tree <- collapse.singles(tree)
 tree <- multi2di(tree)
 
-write.nexus(tree, file = "tree_families_replaced.nex")
+write.nexus(tree, file = "data/tree_families_replaced.nex")
 
